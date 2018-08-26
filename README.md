@@ -14,3 +14,6 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 #### Shaders
  * [shader-school](https://github.com/stackgl/shader-school) Practical shader(GLSL) workshop
  * [Making stuff look good in Unity](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg) - Youtube channel based on visuals - particles, shaders etc.
+
+## Assets I worked with 
+ * [Text Mesh Pro] (https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
