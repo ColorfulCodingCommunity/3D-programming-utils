@@ -16,6 +16,10 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [Making stuff look good in Unity](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg) - Youtube channel based on visuals - particles, shaders etc.
 
 ## Assets I worked with 
- * [Capture and Save Lite](https://assetstore.unity.com/packages/tools/integration/capture-and-save-lite-18755)
+ * [Capture and Save Lite](https://assetstore.unity.com/packages/tools/integration/capture-and-save-lite-18755) - Make a screenshot and save it to gallery.
  * [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296)
  * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
+
+
+## Other interesting assets
+* [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
