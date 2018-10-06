@@ -24,3 +24,4 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ## Other interesting assets
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
 * [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Find which assets are actually used. Free alternative [Asset Usage Detector](https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837)
+* [QFXToolKit](https://github.com/qine/QFXToolKit) - VFX Toolkit - not tested
