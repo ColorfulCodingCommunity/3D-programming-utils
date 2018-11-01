@@ -11,9 +11,10 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [Brackeys](https://www.youtube.com/user/Brackeys)
  * [CatLikeCoding](https://catlikecoding.com/unity/tutorials/) - Advanced Unity tutorials
  
-#### Shaders
+#### Shaders and VFX
  * [shader-school](https://github.com/stackgl/shader-school) Practical shader(GLSL) workshop
  * [Making stuff look good in Unity](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg) - Youtube channel based on visuals - particles, shaders etc.
+ * [Simonschreibt](https://www.youtube.com/channel/UCT3AarMFqrMyeyoEendhN-w/videos)
 
 ## Assets I worked with 
  * [Capture and Save Lite](https://assetstore.unity.com/packages/tools/integration/capture-and-save-lite-18755) - Make a screenshot and save it to gallery.
