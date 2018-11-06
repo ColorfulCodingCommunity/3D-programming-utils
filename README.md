@@ -18,6 +18,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ## Assets I worked with 
  * [Capture and Save Lite](https://assetstore.unity.com/packages/tools/integration/capture-and-save-lite-18755) - Make a screenshot and save it to gallery.
+ * [FBX Exporter](https://assetstore.unity.com/packages/essentials/fbx-exporter-101408)
  * [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296)
  * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
 
