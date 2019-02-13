@@ -23,12 +23,15 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296)
  * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
 
-
 ## Other interesting assets
+* [3D Reconstruction for ARCore](https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919) - 3D Reconstruction using Chisel Library(Tango 3DR)
 * Amplify Shader (53$) - is a node-based shader creation tool inspired by industry leading software.
 * [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Find which assets are actually used. Free alternative [Asset Usage Detector](https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837)
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
 * Odin (49$) - Amplify Unity Inspector and Serializer.
 * [QFXToolKit](https://github.com/qine/QFXToolKit) - VFX Toolkit - not tested
+
+## Projects
+* [Open Chisel](https://github.com/personalrobotics/OpenChisel) - implementation of a generic truncated signed distance field (TSDF) 3D mapping library
 
