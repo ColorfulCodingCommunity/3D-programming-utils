@@ -11,6 +11,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [Brackeys](https://www.youtube.com/user/Brackeys)
  * [CatLikeCoding](https://catlikecoding.com/unity/tutorials/) - Advanced Unity tutorials
  * [Alan Zucconi tutorials - Some are just for patreon](https://www.alanzucconi.com/tutorials/)
+ * [Dilmer Valecillos](https://www.youtube.com/channel/UCHM37DnT_QGJT5Zyl4EmqcA/videos)
  
 #### Shaders and VFX
  * [shader-school](https://github.com/stackgl/shader-school) Practical shader(GLSL) workshop
