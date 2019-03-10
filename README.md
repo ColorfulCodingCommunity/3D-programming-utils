@@ -35,5 +35,6 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [QFXToolKit](https://github.com/qine/QFXToolKit) - VFX Toolkit - not tested
 
 ## Projects
+* [Brush texture drawing component](https://github.com/sugi-cho/Unity-ProjectionSpray-v2/tree/master/Assets/01_SimpleDraw/Scripts)
 * [Open Chisel](https://github.com/personalrobotics/OpenChisel) - implementation of a generic truncated signed distance field (TSDF) 3D mapping library
 
