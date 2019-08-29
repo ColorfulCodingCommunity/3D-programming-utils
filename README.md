@@ -32,7 +32,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
 * Odin (49$) - Amplify Unity Inspector and Serializer.
-* [OpenCV plus](https://assetstore.unity.com/packages/tools/integration/opencv-plus-unity-85928)
+* [OpenCV plus](https://assetstore.unity.com/packages/tools/integration/opencv-plus-unity-85928) - [Example](https://medium.com/dreamarofficial/doodle-ar-bringing-your-doodles-into-the-realm-of-ar-18cfde0e3cd1)
 * [QFXToolKit](https://github.com/qine/QFXToolKit) - VFX Toolkit - not tested
 
 ## Projects
