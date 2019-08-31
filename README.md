@@ -25,6 +25,10 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296)
  * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
 
+## XR Assets
+* Oculus Integration
+* VRTK
+
 ## Other interesting assets
 * [3D Reconstruction for ARCore](https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919) - 3D Reconstruction using Chisel Library(Tango 3DR)
 * Amplify Shader (53$) - is a node-based shader creation tool inspired by industry leading software.
