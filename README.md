@@ -30,7 +30,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ## XR Assets
 * Oculus Integration
-* VRTK - [Oculus Setup Article](https://medium.com/@handspringer/build-a-vr-game-with-vrtk-for-the-oculus-quest-part-1-9cf9f767f109)
+* VRTK 
+   - [Oculus Setup Article](https://medium.com/@handspringer/build-a-vr-game-with-vrtk-for-the-oculus-quest-part-1-9cf9f767f109)
+   - [VR Input Controls](https://docs.unity3d.com/Manual/OpenVRControllers.html)
 
 ## Other interesting assets
 * [3D Reconstruction for ARCore](https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919) - 3D Reconstruction using Chisel Library(Tango 3DR)
