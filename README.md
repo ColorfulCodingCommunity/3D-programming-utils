@@ -44,6 +44,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [OpenCV plus](https://assetstore.unity.com/packages/tools/integration/opencv-plus-unity-85928) - [Example](https://medium.com/dreamarofficial/doodle-ar-bringing-your-doodles-into-the-realm-of-ar-18cfde0e3cd1)
 * [QFXToolKit](https://github.com/qine/QFXToolKit) - VFX Toolkit - not tested
 
+## Scripts
+* [Texture Rescale](http://wiki.unity3d.com/index.php/TextureScale?_ga=2.204131607.686182911.1572621691-1454743221.1512123055)
+
 ## Projects
 * [Brush texture drawing component](https://github.com/sugi-cho/Unity-ProjectionSpray-v2/tree/master/Assets/01_SimpleDraw/Scripts)
 * [Open Chisel](https://github.com/personalrobotics/OpenChisel) - implementation of a generic truncated signed distance field (TSDF) 3D mapping library
