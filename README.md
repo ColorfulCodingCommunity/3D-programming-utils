@@ -48,6 +48,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [http://stemkoski.github.io/](http://stemkoski.github.io/Three.js/index.html)
 
 ## Libraries
+* [THREEx](http://www.threejsgames.com/extensions/)
 * [Networked AFrame](https://www.npmjs.com/package/networked-aframe)
 
 ## Tools & Open Source Projects
