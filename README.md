@@ -48,6 +48,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [http://stemkoski.github.io/](http://stemkoski.github.io/Three.js/index.html)
 
 ## Libraries
+* [React-Three-A11y](https://github.com/pmndrs/react-three-a11y) - Accessibility tools for React Three Fiber
 * [THREEx](http://www.threejsgames.com/extensions/)
 * [Networked AFrame](https://www.npmjs.com/package/networked-aframe)
 
