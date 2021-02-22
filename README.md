@@ -55,6 +55,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ## Tools & Open Source Projects
 * [Three Material Editor](https://github.com/RenaudRohlinger/three-material-editor)
 * [Mozilla Hubs](https://hubs.mozilla.com/)
+* [ThreeJS face filters](https://github.com/funwithtriangles/instatrip)
 
 ## Usecases 
 * [AlteredQualia](https://alteredqualia.com/)
