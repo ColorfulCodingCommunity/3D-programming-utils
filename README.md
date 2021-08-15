@@ -48,20 +48,24 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ---
 
-# AFrame & Three.js
+# AFrame, Three.js, React-Three-Fiber
 ## Learning Resources
 * [ThreeJS Journey](https://threejs-journey.xyz/)
 * [http://stemkoski.github.io/](http://stemkoski.github.io/Three.js/index.html)
 
 ## Libraries
+* [drei - Extension for r3f](https://github.com/pmndrs/drei)
+* [gltfjsx](https://github.com/pmndrs/gltfjsx) - Tool to generate JSX from GLTF
+* [Networked AFrame](https://www.npmjs.com/package/networked-aframe)
 * [React-Three-A11y](https://github.com/pmndrs/react-three-a11y) - Accessibility tools for React Three Fiber
 * [THREEx](http://www.threejsgames.com/extensions/)
-* [Networked AFrame](https://www.npmjs.com/package/networked-aframe)
+* [Three-Landscape](https://www.npmjs.com/package/three-landscape)
 
 ## Tools & Open Source Projects
-* [Three Material Editor](https://github.com/RenaudRohlinger/three-material-editor)
 * [Mozilla Hubs](https://hubs.mozilla.com/)
 * [ThreeJS face filters](https://github.com/funwithtriangles/instatrip)
+* [Three Material Editor](https://github.com/RenaudRohlinger/three-material-editor)
 
 ## Usecases 
 * [AlteredQualia](https://alteredqualia.com/)
+* [Example of Character Controller](https://github.com/swift502/Sketchbook.git)
