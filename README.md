@@ -28,6 +28,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
 * [Gradient Shader](https://gist.github.com/totallyRonja/85534198166a44160186acfb06ae46a2)
 * [Geometric Tools](https://www.geometrictools.com/Samples/Physics.html)
+* [GLTF Importer](https://github.com/atteneder/glTFast?es_id=99f3c51e75)
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
 * [In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole)
 * [MathFS](https://github.com/FreyaHolmer/Mathfs)
