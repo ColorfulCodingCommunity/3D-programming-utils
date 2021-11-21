@@ -34,10 +34,12 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [MathFS](https://github.com/FreyaHolmer/Mathfs)
 * Odin (49$) - Amplify Unity Inspector and Serializer.
 * [OpenCV plus](https://assetstore.unity.com/packages/tools/integration/opencv-plus-unity-85928) - [Example](https://medium.com/dreamarofficial/doodle-ar-bringing-your-doodles-into-the-realm-of-ar-18cfde0e3cd1)
+* [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
 * [SE Natural Bloom Dirty Lens](https://github.com/sonicether/SE-Natural-Bloom-Dirty-Lens)
 * [QFXToolKit](https://github.com/qine/QFXToolKit) - VFX Toolkit - not tested
 * [Texture Atlasser](https://github.com/maxartz15/MA_TextureAtlasser)
+* [UnityFX Outline](https://github.com/Arvtesh/UnityFx.Outline) - Free Outline effect
 
 ## Scripts
 * [Texture Rescale](http://wiki.unity3d.com/index.php/TextureScale?_ga=2.204131607.686182911.1572621691-1454743221.1512123055)
