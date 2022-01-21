@@ -32,6 +32,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
 * [In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole)
 * [MathFS](https://github.com/FreyaHolmer/Mathfs)
+* [Metaballs](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
 * Odin (49$) - Amplify Unity Inspector and Serializer.
 * [OpenCV plus](https://assetstore.unity.com/packages/tools/integration/opencv-plus-unity-85928) - [Example](https://medium.com/dreamarofficial/doodle-ar-bringing-your-doodles-into-the-realm-of-ar-18cfde0e3cd1)
 * [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
