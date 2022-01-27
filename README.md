@@ -44,6 +44,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ## Repos
 * [HDRP Toon Shaders](https://github.com/chrisloop/HDRP2020Toon2)
+* [AudioVisual tons of good stuff](https://github.com/keijiro)
 
 ## Scripts
 * [Texture Rescale](http://wiki.unity3d.com/index.php/TextureScale?_ga=2.204131607.686182911.1572621691-1454743221.1512123055)
