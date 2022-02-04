@@ -21,10 +21,10 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ## Other interesting assets
 * [3D Reconstruction for ARCore](https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919) - 3D Reconstruction using Chisel Library(Tango 3DR)
 * [Amplify Impostors](https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-119877) - 2D LOD for 3D objects
-* Amplify Shader (53$) - is a node-based shader creation tool inspired by industry leading software.
 * [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
 * [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Find which assets are actually used. Free alternative [Asset Usage Detector](https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837)
 * [AsyncAwaitUntil](https://github.com/svermeulen/Unity3dAsyncAwaitUtil)
+* [Atmospheric Scattering](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
 * [Gradient Shader](https://gist.github.com/totallyRonja/85534198166a44160186acfb06ae46a2)
 * [Geometric Tools](https://www.geometrictools.com/Samples/Physics.html)
