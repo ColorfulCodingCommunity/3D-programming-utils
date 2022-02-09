@@ -77,3 +77,12 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ## Usecases 
 * [AlteredQualia](https://alteredqualia.com/)
 * [Example of Character Controller](https://github.com/swift502/Sketchbook.git)
+
+---
+# Blender
+## Add-ons
+* [Export Paper Model](https://blender-addons.org/export-paper-model-addon/)
+* [fSpy](https://fspy.io/) - Open Source Still camera matching
+* [Lily's Surface Scraper](https://blender-addons.org/lily-surface-scrapper-addon/)
+* [Material Slot Cleaner](https://www.blendernation.com/2020/02/12/add-on-material-slots-cleaner-free/)
+* Meshroom2Blender
