@@ -24,6 +24,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
 * [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Find which assets are actually used. Free alternative [Asset Usage Detector](https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837)
 * [AsyncAwaitUntil](https://github.com/svermeulen/Unity3dAsyncAwaitUtil)
+* [AsyncImageLoader](https://github.com/Looooong/UnityAsyncImageLoader)
 * [Atmospheric Scattering](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
 * [Gradient Shader](https://gist.github.com/totallyRonja/85534198166a44160186acfb06ae46a2)
@@ -31,6 +32,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [GLTF Importer](https://github.com/atteneder/glTFast?es_id=99f3c51e75)
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
 * [In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole)
+* [LTCGI](https://github.com/PiMaker/ltcgi) - Realtime area lighting
 * [MathFS](https://github.com/FreyaHolmer/Mathfs)
 * [Metaballs](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
 * Odin (49$) - Amplify Unity Inspector and Serializer.
@@ -41,6 +43,11 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [QFXToolKit](https://github.com/qine/QFXToolKit) - VFX Toolkit - not tested
 * [Texture Atlasser](https://github.com/maxartz15/MA_TextureAtlasser)
 * [UnityFX Outline](https://github.com/Arvtesh/UnityFx.Outline) - Free Outline effect
+
+## Editor Tools
+* [DebugUtils](https://github.com/vertxxyz/Vertx.Debugging)
+* [EditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) -  Buttons. Scene references. Searchable Enums
+* [PlayerPrefsEditor](https://github.com/Dysman/bgTools-playerPrefsEditor)
 
 ## Repos
 * [HDRP Toon Shaders](https://github.com/chrisloop/HDRP2020Toon2)
