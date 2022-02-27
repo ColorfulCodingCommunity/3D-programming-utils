@@ -43,6 +43,8 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [QFXToolKit](https://github.com/qine/QFXToolKit) - VFX Toolkit - not tested
 * [Texture Atlasser](https://github.com/maxartz15/MA_TextureAtlasser)
 * [UnityFX Outline](https://github.com/Arvtesh/UnityFx.Outline) - Free Outline effect
+* [Volumetric Fake Lights](https://gitlab.com/s-ilent/fake-lights)
+* [XSVolumetrics](https://github.com/Xiexe/XSVolumetrics?utm_source=pocket_mylist)
 
 ## Editor Tools
 * [DebugUtils](https://github.com/vertxxyz/Vertx.Debugging)
