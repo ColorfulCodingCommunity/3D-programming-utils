@@ -26,6 +26,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [AsyncAwaitUntil](https://github.com/svermeulen/Unity3dAsyncAwaitUtil)
 * [AsyncImageLoader](https://github.com/Looooong/UnityAsyncImageLoader)
 * [Atmospheric Scattering](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)
+* [Build Tools](https://github.com/attilioHimeki/unity-build-tools)
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
 * [Gradient Shader](https://gist.github.com/totallyRonja/85534198166a44160186acfb06ae46a2)
 * [Geometric Tools](https://www.geometrictools.com/Samples/Physics.html)
@@ -39,6 +40,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [OpenCV plus](https://assetstore.unity.com/packages/tools/integration/opencv-plus-unity-85928) - [Example](https://medium.com/dreamarofficial/doodle-ar-bringing-your-doodles-into-the-realm-of-ar-18cfde0e3cd1)
 * [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
+* [Record and Repeat](https://github.com/fx-lange/unity-record-and-repeat)
 * [SE Natural Bloom Dirty Lens](https://github.com/sonicether/SE-Natural-Bloom-Dirty-Lens)
 * [QFXToolKit](https://github.com/qine/QFXToolKit) - VFX Toolkit - not tested
 * [Texture Atlasser](https://github.com/maxartz15/MA_TextureAtlasser)
@@ -57,6 +59,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ## Scripts
 * [Texture Rescale](http://wiki.unity3d.com/index.php/TextureScale?_ga=2.204131607.686182911.1572621691-1454743221.1512123055)
+* [URP Mirror](https://github.com/Avdbergnmf/UnityURPMirrorShader)
 
 ## Projects
 * [Brush texture drawing component](https://github.com/sugi-cho/Unity-ProjectionSpray-v2/tree/master/Assets/01_SimpleDraw/Scripts)
