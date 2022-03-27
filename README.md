@@ -27,6 +27,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [AsyncImageLoader](https://github.com/Looooong/UnityAsyncImageLoader)
 * [Atmospheric Scattering](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)
 * [Build Tools](https://github.com/attilioHimeki/unity-build-tools)
+* [Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
 * [Gradient Shader](https://gist.github.com/totallyRonja/85534198166a44160186acfb06ae46a2)
 * [Geometric Tools](https://www.geometrictools.com/Samples/Physics.html)
@@ -38,6 +39,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Metaballs](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
 * Odin (49$) - Amplify Unity Inspector and Serializer.
 * [OpenCV plus](https://assetstore.unity.com/packages/tools/integration/opencv-plus-unity-85928) - [Example](https://medium.com/dreamarofficial/doodle-ar-bringing-your-doodles-into-the-realm-of-ar-18cfde0e3cd1)
+* [Open Kinematic Character Controller](https://github.com/nicholas-maltbie/OpenKCC)
 * [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
 * [Record and Repeat](https://github.com/fx-lange/unity-record-and-repeat)
