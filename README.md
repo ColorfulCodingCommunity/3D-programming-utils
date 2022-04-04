@@ -43,7 +43,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
 * [Record and Repeat](https://github.com/fx-lange/unity-record-and-repeat)
+* [Rhea - Geometry Shader Grass](https://github.com/Ryan-Gee/RheaGrass)
 * [SE Natural Bloom Dirty Lens](https://github.com/sonicether/SE-Natural-Bloom-Dirty-Lens)
+* [Serializable Dictionary](https://github.com/upscalebaby/generic-serializable-dictionary)
 * [Serialize Reference Extensions](https://github.com/mackysoft/Unity-SerializeReferenceExtensions)
 * [QFXToolKit](https://github.com/qine/QFXToolKit) - VFX Toolkit - not tested
 * [Texture Atlasser](https://github.com/maxartz15/MA_TextureAtlasser)
