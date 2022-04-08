@@ -32,6 +32,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Gradient Shader](https://gist.github.com/totallyRonja/85534198166a44160186acfb06ae46a2)
 * [Geometric Tools](https://www.geometrictools.com/Samples/Physics.html)
 * [GLTF Importer](https://github.com/atteneder/glTFast?es_id=99f3c51e75)
+* [HTTP Debugger](https://github.com/ErnSur/Unity-Http-Debugger)
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
 * [In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole)
 * [LTCGI](https://github.com/PiMaker/ltcgi) - Realtime area lighting
@@ -50,6 +51,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [QFXToolKit](https://github.com/qine/QFXToolKit) - VFX Toolkit - not tested
 * [Texture Atlasser](https://github.com/maxartz15/MA_TextureAtlasser)
 * [UnityFX Outline](https://github.com/Arvtesh/UnityFx.Outline) - Free Outline effect
+* [Vertx Debugging Tools](https://github.com/vertxxyz/Vertx.Debugging)
 * [Volumetric Fake Lights](https://gitlab.com/s-ilent/fake-lights)
 * [XSVolumetrics](https://github.com/Xiexe/XSVolumetrics?utm_source=pocket_mylist)
 
