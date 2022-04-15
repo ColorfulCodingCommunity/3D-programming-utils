@@ -6,33 +6,20 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ## Learning Resources
  * [(CatlikeCoding)](https://catlikecoding.com/unity/tutorials/)
 
-## Assets I worked with 
- * [Capture and Save Lite](https://assetstore.unity.com/packages/tools/integration/capture-and-save-lite-18755) - Make a screenshot and save it to gallery.
- * [FBX Exporter](https://assetstore.unity.com/packages/essentials/fbx-exporter-101408)
- * [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595) - Easy animations, help you avoid coroutines/Update for simple transitions
- * [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296)
- * [UMP](https://assetstore.unity.com/packages/tools/video/ump-win-mac-linux-webgl-49625) - Used it for receiving live-streaming YT videos
- 
- ### Unity UI
- * [Rounded Corners Shader](https://github.com/Nobinator/Unity-UI-Rounded-Corners)
- * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
-
-
 ## Other interesting assets
 * [3D Reconstruction for ARCore](https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919) - 3D Reconstruction using Chisel Library(Tango 3DR)
 * [Amplify Impostors](https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-119877) - 2D LOD for 3D objects
 * [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
-* [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Find which assets are actually used. Free alternative [Asset Usage Detector](https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837)
 * [AsyncAwaitUntil](https://github.com/svermeulen/Unity3dAsyncAwaitUtil)
 * [AsyncImageLoader](https://github.com/Looooong/UnityAsyncImageLoader)
 * [Atmospheric Scattering](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)
-* [Build Tools](https://github.com/attilioHimeki/unity-build-tools)
-* [Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
+* [Capture and Save Lite](https://assetstore.unity.com/packages/tools/integration/capture-and-save-lite-18755) - Make a screenshot and save it to gallery.
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
+* [FBX Exporter](https://assetstore.unity.com/packages/essentials/fbx-exporter-101408)
 * [Gradient Shader](https://gist.github.com/totallyRonja/85534198166a44160186acfb06ae46a2)
 * [Geometric Tools](https://www.geometrictools.com/Samples/Physics.html)
+* [Git Scene Merge](http://flashg.github.io/GitMerge-for-Unity/)
 * [GLTF Importer](https://github.com/atteneder/glTFast?es_id=99f3c51e75)
-* [HTTP Debugger](https://github.com/ErnSur/Unity-Http-Debugger)
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
 * [In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole)
 * [LTCGI](https://github.com/PiMaker/ltcgi) - Realtime area lighting
@@ -43,6 +30,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Open Kinematic Character Controller](https://github.com/nicholas-maltbie/OpenKCC)
 * [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
+* [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296)
 * [Record and Repeat](https://github.com/fx-lange/unity-record-and-repeat)
 * [Rhea - Geometry Shader Grass](https://github.com/Ryan-Gee/RheaGrass)
 * [SE Natural Bloom Dirty Lens](https://github.com/sonicether/SE-Natural-Bloom-Dirty-Lens)
@@ -50,15 +38,25 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Serialize Reference Extensions](https://github.com/mackysoft/Unity-SerializeReferenceExtensions)
 * [QFXToolKit](https://github.com/qine/QFXToolKit) - VFX Toolkit - not tested
 * [Texture Atlasser](https://github.com/maxartz15/MA_TextureAtlasser)
+* [UMP](https://assetstore.unity.com/packages/tools/video/ump-win-mac-linux-webgl-49625) - Used it for receiving live-streaming YT videos
 * [UnityFX Outline](https://github.com/Arvtesh/UnityFx.Outline) - Free Outline effect
 * [Vertx Debugging Tools](https://github.com/vertxxyz/Vertx.Debugging)
 * [Volumetric Fake Lights](https://gitlab.com/s-ilent/fake-lights)
 * [XSVolumetrics](https://github.com/Xiexe/XSVolumetrics?utm_source=pocket_mylist)
 
 ## Editor Tools
+* [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Find which assets are actually used. Free alternative [Asset Usage Detector](https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837)
+* [Build Tools](https://github.com/attilioHimeki/unity-build-tools)
 * [DebugUtils](https://github.com/vertxxyz/Vertx.Debugging)
 * [EditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) -  Buttons. Scene references. Searchable Enums
+* [Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
+* [HTTP Debugger](https://github.com/ErnSur/Unity-Http-Debugger)
 * [PlayerPrefsEditor](https://github.com/Dysman/bgTools-playerPrefsEditor)
+* [Switch Attributes](https://github.com/ghysc/SwitchAttribute)
+
+ ### Unity UI
+ * [Rounded Corners Shader](https://github.com/Nobinator/Unity-UI-Rounded-Corners)
+ * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
 
 ## Repos
 * [HDRP Toon Shaders](https://github.com/chrisloop/HDRP2020Toon2)
