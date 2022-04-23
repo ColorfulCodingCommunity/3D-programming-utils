@@ -52,6 +52,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
 * [HTTP Debugger](https://github.com/ErnSur/Unity-Http-Debugger)
 * [PlayerPrefsEditor](https://github.com/Dysman/bgTools-playerPrefsEditor)
+* [RapidGUI](https://github.com/fuqunaga/RapidGUI) - IMGUI extensions
 * [Switch Attributes](https://github.com/ghysc/SwitchAttribute)
 
  ### Unity UI
@@ -70,6 +71,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Brush texture drawing component](https://github.com/sugi-cho/Unity-ProjectionSpray-v2/tree/master/Assets/01_SimpleDraw/Scripts)
 * [Open Chisel](https://github.com/personalrobotics/OpenChisel) - implementation of a generic truncated signed distance field (TSDF) 3D mapping library
 * [TiltBrush](https://github.com/googlevr/tilt-brush)
+
+## Third Party
+* [Voice line cutter](https://voicelinecutter.xyz/)
 
 ---
 
