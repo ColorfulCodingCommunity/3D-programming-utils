@@ -13,6 +13,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [AsyncAwaitUntil](https://github.com/svermeulen/Unity3dAsyncAwaitUtil)
 * [AsyncImageLoader](https://github.com/Looooong/UnityAsyncImageLoader)
 * [Atmospheric Scattering](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)
+* [Bezier Solution](https://github.com/yasirkula/UnityBezierSolution)
 * [Capture and Save Lite](https://assetstore.unity.com/packages/tools/integration/capture-and-save-lite-18755) - Make a screenshot and save it to gallery.
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
 * [FBX Exporter](https://assetstore.unity.com/packages/essentials/fbx-exporter-101408)
@@ -25,6 +26,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [LTCGI](https://github.com/PiMaker/ltcgi) - Realtime area lighting
 * [MathFS](https://github.com/FreyaHolmer/Mathfs)
 * [Metaballs](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
+* [Moxi Ink](https://github.com/komietty/unity-moxi-ink)
 * Odin (49$) - Amplify Unity Inspector and Serializer.
 * [OpenCV plus](https://assetstore.unity.com/packages/tools/integration/opencv-plus-unity-85928) - [Example](https://medium.com/dreamarofficial/doodle-ar-bringing-your-doodles-into-the-realm-of-ar-18cfde0e3cd1)
 * [Open Kinematic Character Controller](https://github.com/nicholas-maltbie/OpenKCC)
@@ -51,6 +53,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [EditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) -  Buttons. Scene references. Searchable Enums
 * [Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
 * [HTTP Debugger](https://github.com/ErnSur/Unity-Http-Debugger)
+* [Pivot Editor](https://github.com/yasirkula/UnityAdjustPivot)
 * [PlayerPrefsEditor](https://github.com/Dysman/bgTools-playerPrefsEditor)
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) - IMGUI extensions
 * [Switch Attributes](https://github.com/ghysc/SwitchAttribute)
