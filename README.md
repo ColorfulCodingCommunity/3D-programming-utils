@@ -23,6 +23,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [GLTF Importer](https://github.com/atteneder/glTFast?es_id=99f3c51e75)
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
 * [In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole)
+* [Infinity Foliage](https://github.com/haolange/InfinityFoliage) - GPU-driven trees and grass
 * [LTCGI](https://github.com/PiMaker/ltcgi) - Realtime area lighting
 * [MathFS](https://github.com/FreyaHolmer/Mathfs)
 * [Metaballs](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
@@ -43,6 +44,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [UMP](https://assetstore.unity.com/packages/tools/video/ump-win-mac-linux-webgl-49625) - Used it for receiving live-streaming YT videos
 * [UnityFX Outline](https://github.com/Arvtesh/UnityFx.Outline) - Free Outline effect
 * [Vertx Debugging Tools](https://github.com/vertxxyz/Vertx.Debugging)
+* [vGLTF](https://github.com/yutopp/VGltf)
 * [Volumetric Fake Lights](https://gitlab.com/s-ilent/fake-lights)
 * [XSVolumetrics](https://github.com/Xiexe/XSVolumetrics?utm_source=pocket_mylist)
 
