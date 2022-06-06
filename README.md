@@ -77,6 +77,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [PlayerPrefsEditor](https://github.com/Dysman/bgTools-playerPrefsEditor)
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) - IMGUI extensions
 * [Runtime Monitoring](https://github.com/JohnBaracuda/Runtime-Monitoring)
+* [Scene-View-Bookmarks](https://github.com/mminer/scene-view-bookmarks) - camera position bookmarking
 * [Switch Attributes](https://github.com/ghysc/SwitchAttribute)
 * [Vertx Debugging Tools](https://github.com/vertxxyz/Vertx.Debugging)
 
