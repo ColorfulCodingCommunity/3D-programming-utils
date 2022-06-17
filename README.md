@@ -10,6 +10,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### Animations
 * [Open Kinematic Character Controller](https://github.com/nicholas-maltbie/OpenKCC)
 * [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296)
+* [uLipSync](https://github.com/hecomi/uLipSync) - Lip Sync
 
 
 ### AR
