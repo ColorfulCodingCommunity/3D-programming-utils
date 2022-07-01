@@ -23,6 +23,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### Mobile
 * [Capture and Save Lite](https://assetstore.unity.com/packages/tools/integration/capture-and-save-lite-18755) - Make a screenshot and save it to gallery.
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
+* [Native Dialog](https://github.com/j1mmyto9/unity-mobile-dialog-popup-native)
 * [Record and Repeat](https://github.com/fx-lange/unity-record-and-repeat)
 * [UMP](https://assetstore.unity.com/packages/tools/video/ump-win-mac-linux-webgl-49625) - Used it for receiving live-streaming YT videos
 
@@ -80,6 +81,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Runtime Monitoring](https://github.com/JohnBaracuda/Runtime-Monitoring)
 * [Scene-View-Bookmarks](https://github.com/mminer/scene-view-bookmarks) - camera position bookmarking
 * [Switch Attributes](https://github.com/ghysc/SwitchAttribute)
+* [Unity Dependency Toolkit](https://github.com/ultraleap/Unity-Dependency-Toolkit)
 * [Vertx Debugging Tools](https://github.com/vertxxyz/Vertx.Debugging)
 
 ### Other Tools
