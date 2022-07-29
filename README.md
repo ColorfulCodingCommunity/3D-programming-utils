@@ -11,6 +11,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Open Kinematic Character Controller](https://github.com/nicholas-maltbie/OpenKCC)
 * [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296)
 * [uLipSync](https://github.com/hecomi/uLipSync) - Lip Sync
+* [Rhubarb Lipsync](https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer)
 
 
 ### AR
@@ -91,6 +92,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Git Scene Merge](http://flashg.github.io/GitMerge-for-Unity/)
 * [GLTF Importer](https://github.com/atteneder/glTFast?es_id=99f3c51e75)
 * [vGLTF](https://github.com/yutopp/VGltf)
+* [Noise Generator](https://github.com/AndreaDev3D/EasyNoise)
 
 ## Repos
 * [HDRP Toon Shaders](https://github.com/chrisloop/HDRP2020Toon2)
