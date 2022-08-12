@@ -8,6 +8,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ## Other interesting assets
 ### Animations
+* [Soft bones](https://github.com/EZhex1991/EZSoftBone)
 * [Open Kinematic Character Controller](https://github.com/nicholas-maltbie/OpenKCC)
 * [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296)
 * [uLipSync](https://github.com/hecomi/uLipSync) - Lip Sync
@@ -47,6 +48,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Gradient Shader](https://gist.github.com/totallyRonja/85534198166a44160186acfb06ae46a2)
 * [LTCGI](https://github.com/PiMaker/ltcgi) - Realtime area lighting
 * [Moxi Ink](https://github.com/komietty/unity-moxi-ink)
+* [Outlines](https://github.com/Robinseibold/Unity-URP-Outlines)
 * [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
 * [Rhea - Geometry Shader Grass](https://github.com/Ryan-Gee/RheaGrass)
