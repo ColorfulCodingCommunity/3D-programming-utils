@@ -95,6 +95,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [GLTF Importer](https://github.com/atteneder/glTFast?es_id=99f3c51e75)
 * [vGLTF](https://github.com/yutopp/VGltf)
 * [Noise Generator](https://github.com/AndreaDev3D/EasyNoise)
+* [StbImageSharpForUnity](https://github.com/mochi-neko/StbImageSharpForUnity) - byte/Stream to Texture2D
 
 ## Repos
 * [HDRP Toon Shaders](https://github.com/chrisloop/HDRP2020Toon2)
