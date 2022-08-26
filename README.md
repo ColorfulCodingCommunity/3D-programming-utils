@@ -8,15 +8,18 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ## Other interesting assets
 ### Animations
-* [Soft bones](https://github.com/EZhex1991/EZSoftBone)
 * [Open Kinematic Character Controller](https://github.com/nicholas-maltbie/OpenKCC)
+* [Open Fracture](https://github.com/dgreenheck/OpenFracture)
 * [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296)
+* [Skinned Mesh Transfer Tool](https://github.com/CascadianWorks/Unity-Mesh-Transfer-Tool)
+* [Soft bones](https://github.com/EZhex1991/EZSoftBone)
 * [uLipSync](https://github.com/hecomi/uLipSync) - Lip Sync
 * [Rhubarb Lipsync](https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer)
 
 
 ### AR
 * [3D Reconstruction for ARCore](https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919) - 3D Reconstruction using Chisel Library(Tango 3DR)
+* [Point Cloud Importer/Renderer](https://github.com/keijiro/Pcx)
 
 ### Geometry
 * [Infinity Foliage](https://github.com/haolange/InfinityFoliage) - GPU-driven trees and grass
@@ -28,6 +31,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
 * [Native Dialog](https://github.com/j1mmyto9/unity-mobile-dialog-popup-native)
 * [Record and Repeat](https://github.com/fx-lange/unity-record-and-repeat)
+* [Swipe detector](https://github.com/burning-laboratory/unity-swipe-input)
 * [UMP](https://assetstore.unity.com/packages/tools/video/ump-win-mac-linux-webgl-49625) - Used it for receiving live-streaming YT videos
 
 ### Optimizations
@@ -66,6 +70,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
  ### Unity UI
  * [Rounded Corners Shader](https://github.com/Nobinator/Unity-UI-Rounded-Corners)
+ * [SVG importer](https://github.com/Artees/SVGImporter)
  * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
 
 ## Editor Tools
