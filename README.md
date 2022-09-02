@@ -48,9 +48,11 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### Shaders and VFX
 * [Atmospheric Scattering](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)
+* [Bake Shaders](https://github.com/Cyanilux/BakeShader)
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
 * [Gradient Shader](https://gist.github.com/totallyRonja/85534198166a44160186acfb06ae46a2)
 * [LTCGI](https://github.com/PiMaker/ltcgi) - Realtime area lighting
+* [MagicaVoxel to VFXGraph](https://github.com/Zarbuz/VoxToVFX)
 * [Moxi Ink](https://github.com/komietty/unity-moxi-ink)
 * [Outlines](https://github.com/Robinseibold/Unity-URP-Outlines)
 * [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
@@ -149,5 +151,10 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Export Paper Model](https://blender-addons.org/export-paper-model-addon/)
 * [fSpy](https://fspy.io/) - Open Source Still camera matching
 * [Lily's Surface Scraper](https://blender-addons.org/lily-surface-scrapper-addon/)
+* [Materials since 2007](https://blender-materials.org/)
 * [Material Slot Cleaner](https://www.blendernation.com/2020/02/12/add-on-material-slots-cleaner-free/)
 * Meshroom2Blender
+
+---
+# AI
+* [AI Image Upscaler](https://github.com/upscayl/upscayl)
