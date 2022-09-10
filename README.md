@@ -24,6 +24,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### Geometry
 * [Infinity Foliage](https://github.com/haolange/InfinityFoliage) - GPU-driven trees and grass
 * [Metaballs](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
+* [Spline Mesh](https://github.com/methusalah/SplineMesh)
 * [Unity Grass Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer)
 
 ### Mobile
