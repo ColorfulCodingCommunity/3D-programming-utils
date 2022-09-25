@@ -21,6 +21,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [3D Reconstruction for ARCore](https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919) - 3D Reconstruction using Chisel Library(Tango 3DR)
 * [Point Cloud Importer/Renderer](https://github.com/keijiro/Pcx)
 
+### Audio
+* [Audio FX Toolkit](https://assetstore.unity.com/packages/tools/audio/audio-fx-toolkit-232142)
+
 ### Geometry
 * [Infinity Foliage](https://github.com/haolange/InfinityFoliage) - GPU-driven trees and grass
 * [Metaballs](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
@@ -28,6 +31,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Unity Grass Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer)
 
 ### Mobile
+* [AutoScreen for Unity2021](https://github.com/su10/AutoScreen-for-Unity2021) - Safea area for Device Simulator
 * [Capture and Save Lite](https://assetstore.unity.com/packages/tools/integration/capture-and-save-lite-18755) - Make a screenshot and save it to gallery.
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
 * [Native Dialog](https://github.com/j1mmyto9/unity-mobile-dialog-popup-native)
@@ -75,6 +79,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [Rounded Corners Shader](https://github.com/Nobinator/Unity-UI-Rounded-Corners)
  * [SVG importer](https://github.com/Artees/SVGImporter)
  * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
+ * [UIComponents](https://github.com/jonisavo/uicomponents) - UIToolkit decoupling and DI
 
 ## Editor Tools
 * [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
@@ -104,6 +109,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [vGLTF](https://github.com/yutopp/VGltf)
 * [Noise Generator](https://github.com/AndreaDev3D/EasyNoise)
 * [StbImageSharpForUnity](https://github.com/mochi-neko/StbImageSharpForUnity) - byte/Stream to Texture2D
+* [WebGL Optimizer](https://assetstore.unity.com/packages/tools/utilities/webgl-optimizer-230446)
 
 ## Repos
 * [HDRP Toon Shaders](https://github.com/chrisloop/HDRP2020Toon2)
@@ -149,6 +155,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ---
 # Blender
 ## Add-ons
+* [Dream Textures](https://github.com/carson-katri/dream-textures) - texture creating Stable Diffusion
 * [Export Paper Model](https://blender-addons.org/export-paper-model-addon/)
 * [fSpy](https://fspy.io/) - Open Source Still camera matching
 * [Lily's Surface Scraper](https://blender-addons.org/lily-surface-scrapper-addon/)
