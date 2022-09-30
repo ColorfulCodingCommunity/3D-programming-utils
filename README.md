@@ -10,6 +10,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### Animations
 * [Open Kinematic Character Controller](https://github.com/nicholas-maltbie/OpenKCC)
 * [Open Fracture](https://github.com/dgreenheck/OpenFracture)
+* [Record Physics as Animations](https://github.com/guraysenova/RecordPhysicsAsAnimations)
 * [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296)
 * [Skinned Mesh Transfer Tool](https://github.com/CascadianWorks/Unity-Mesh-Transfer-Tool)
 * [Soft bones](https://github.com/EZhex1991/EZSoftBone)
@@ -36,6 +37,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
 * [Native Dialog](https://github.com/j1mmyto9/unity-mobile-dialog-popup-native)
 * [Record and Repeat](https://github.com/fx-lange/unity-record-and-repeat)
+* [Smart Image](https://github.com/Auros/SmartImage)
 * [Swipe detector](https://github.com/burning-laboratory/unity-swipe-input)
 * [UMP](https://assetstore.unity.com/packages/tools/video/ump-win-mac-linux-webgl-49625) - Used it for receiving live-streaming YT videos
 
@@ -59,6 +61,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [LTCGI](https://github.com/PiMaker/ltcgi) - Realtime area lighting
 * [MagicaVoxel to VFXGraph](https://github.com/Zarbuz/VoxToVFX)
 * [Moxi Ink](https://github.com/komietty/unity-moxi-ink)
+* [Nova Shader](https://github.com/CyberAgentGameEntertainment/NovaShader)
 * [Outlines](https://github.com/Robinseibold/Unity-URP-Outlines)
 * [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
@@ -166,3 +169,4 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ---
 # AI
 * [AI Image Upscaler](https://github.com/upscayl/upscayl)
+* [Unity Text2Mesh)(https://github.com/threedle/text2mesh)
