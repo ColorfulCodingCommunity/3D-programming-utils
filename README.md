@@ -56,6 +56,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### Shaders and VFX
 * [Atmospheric Scattering](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)
 * [Bake Shaders](https://github.com/Cyanilux/BakeShader)
+* [Deferred Decals](https://github.com/SanielX/DeferredDecals)
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
 * [Gradient Shader](https://gist.github.com/totallyRonja/85534198166a44160186acfb06ae46a2)
 * [LTCGI](https://github.com/PiMaker/ltcgi) - Realtime area lighting
@@ -73,6 +74,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [QFXToolKit](https://github.com/qine/QFXToolKit) - VFX Toolkit - not tested
 * [Toon water shader](https://github.com/IronWarrior/ToonWaterShader)
 * [UnityFX Outline](https://github.com/Arvtesh/UnityFx.Outline) - Free Outline effect
+* [URP Antialising](https://github.com/CMDRSpirit/URPTemporalAA)
 * [Water buoyancy](https://github.com/dbrizov/NaughtyWaterBuoyancy)
 * [Volumetric Fake Lights](https://gitlab.com/s-ilent/fake-lights)
 * [Watercolor Postprocessing](https://github.com/keijiro/KinoAqua)
@@ -105,12 +107,13 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Vertx Debugging Tools](https://github.com/vertxxyz/Vertx.Debugging)
 
 ### Other Tools
+* [Bezier Solution](https://github.com/yasirkula/UnityBezierSolution) or [Unity Path Generator](https://github.com/KimYC1223/UnityPathGenerator)
 * [FBX Exporter](https://assetstore.unity.com/packages/essentials/fbx-exporter-101408)
-* [Bezier Solution](https://github.com/yasirkula/UnityBezierSolution)
 * [Git Scene Merge](http://flashg.github.io/GitMerge-for-Unity/)
 * [GLTF Importer](https://github.com/atteneder/glTFast?es_id=99f3c51e75)
 * [vGLTF](https://github.com/yutopp/VGltf)
 * [Noise Generator](https://github.com/AndreaDev3D/EasyNoise)
+* [Quick Build](https://github.com/Smidgens/unity-qbuild)
 * [StbImageSharpForUnity](https://github.com/mochi-neko/StbImageSharpForUnity) - byte/Stream to Texture2D
 * [WebGL Optimizer](https://assetstore.unity.com/packages/tools/utilities/webgl-optimizer-230446)
 
