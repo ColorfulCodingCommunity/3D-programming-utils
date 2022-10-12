@@ -17,7 +17,6 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [uLipSync](https://github.com/hecomi/uLipSync) - Lip Sync
 * [Rhubarb Lipsync](https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer)
 
-
 ### AR
 * [3D Reconstruction for ARCore](https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919) - 3D Reconstruction using Chisel Library(Tango 3DR)
 * [Point Cloud Importer/Renderer](https://github.com/keijiro/Pcx)
@@ -96,10 +95,12 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
 * [In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole)
 * [HTTP Debugger](https://github.com/ErnSur/Unity-Http-Debugger)
+* [More Attributes](https://assetstore.unity.com/packages/tools/utilities/more-attributes-229818)
 * [NSelection](https://github.com/vertxxyz/NSelection)
 * [Pivot Editor](https://github.com/yasirkula/UnityAdjustPivot)
 * [PlayerPrefsEditor](https://github.com/Dysman/bgTools-playerPrefsEditor)
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) - IMGUI extensions
+* [Readme Lite](https://assetstore.unity.com/packages/tools/utilities/readme-lite-156751?aid=1101l9Bhe)
 * [Runtime Monitoring](https://github.com/JohnBaracuda/Runtime-Monitoring)
 * [Scene-View-Bookmarks](https://github.com/mminer/scene-view-bookmarks) - camera position bookmarking
 * [Switch Attributes](https://github.com/ghysc/SwitchAttribute)
