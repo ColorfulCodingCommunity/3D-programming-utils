@@ -8,6 +8,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ## Other interesting assets
 ### Animations
+* [Face Mesh Baracuda](https://github.com/keijiro/FaceMeshBarracuda)
 * [Open Kinematic Character Controller](https://github.com/nicholas-maltbie/OpenKCC)
 * [Open Fracture](https://github.com/dgreenheck/OpenFracture)
 * [Record Physics as Animations](https://github.com/guraysenova/RecordPhysicsAsAnimations)
