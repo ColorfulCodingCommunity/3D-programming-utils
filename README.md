@@ -113,6 +113,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [FBX Exporter](https://assetstore.unity.com/packages/essentials/fbx-exporter-101408)
 * [Git Scene Merge](http://flashg.github.io/GitMerge-for-Unity/)
 * [GLTF Importer](https://github.com/atteneder/glTFast?es_id=99f3c51e75)
+* [IML - Interact Machine Learning](https://github.com/Interactml/iml-unity) - visual script Machine Learning
 * [vGLTF](https://github.com/yutopp/VGltf)
 * [Noise Generator](https://github.com/AndreaDev3D/EasyNoise)
 * [Quick Build](https://github.com/Smidgens/unity-qbuild)
