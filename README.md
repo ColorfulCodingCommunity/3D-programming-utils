@@ -138,6 +138,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Voice line cutter](https://voicelinecutter.xyz/)
 
 ---
+## Tutorials
+* [UI Maskable custom shaders](https://www.youtube.com/watch?v=RxW7_qgkXPo&ab_channel=jinhoLee)
+---
 
 # AFrame, Three.js, React-Three-Fiber
 ## Learning Resources
