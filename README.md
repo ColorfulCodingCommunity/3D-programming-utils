@@ -5,6 +5,8 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 # Unity
 ## Learning Resources
  * [(CatlikeCoding)](https://catlikecoding.com/unity/tutorials/)
+ * [UI Maskable custom shaders](https://www.youtube.com/watch?v=RxW7_qgkXPo&ab_channel=jinhoLee)
+ * [Lightmapping in Unity Troubleshooting guide](https://forum.unity.com/threads/lightmapping-troubleshooting-guide.1340936/#post-8466923)
 
 ## Other interesting assets
 ### Animations
@@ -137,9 +139,6 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ## Third Party
 * [Voice line cutter](https://voicelinecutter.xyz/)
 
----
-## Tutorials
-* [UI Maskable custom shaders](https://www.youtube.com/watch?v=RxW7_qgkXPo&ab_channel=jinhoLee)
 ---
 
 # AFrame, Three.js, React-Three-Fiber
