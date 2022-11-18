@@ -14,6 +14,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Face Mesh Baracuda](https://github.com/keijiro/FaceMeshBarracuda)
 * [Open Kinematic Character Controller](https://github.com/nicholas-maltbie/OpenKCC)
 * [Open Fracture](https://github.com/dgreenheck/OpenFracture)
+* [Polyhidra](https://github.com/IxxyXR/polyhydra-core) - procedural generation toolkit
 * [Record Physics as Animations](https://github.com/guraysenova/RecordPhysicsAsAnimations)
 * [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296)
 * [Skinned Mesh Transfer Tool](https://github.com/CascadianWorks/Unity-Mesh-Transfer-Tool)
