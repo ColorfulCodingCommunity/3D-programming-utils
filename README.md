@@ -87,6 +87,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  ### Unity UI
  * [Rounded Corners Shader](https://github.com/Nobinator/Unity-UI-Rounded-Corners)
  * [SVG importer](https://github.com/Artees/SVGImporter)
+ * [Soft Masks](https://github.com/mob-sakai/SoftMaskForUGUI)
  * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
  * [UIComponents](https://github.com/jonisavo/uicomponents) - UIToolkit decoupling and DI
 
