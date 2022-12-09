@@ -40,6 +40,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Capture and Save Lite](https://assetstore.unity.com/packages/tools/integration/capture-and-save-lite-18755) - Make a screenshot and save it to gallery.
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
 * [Native Dialog](https://github.com/j1mmyto9/unity-mobile-dialog-popup-native)
+* [Native Sharing](https://github.com/NicholasSheehan/Unity-Native-Sharing)
 * [Record and Repeat](https://github.com/fx-lange/unity-record-and-repeat)
 * [Smart Image](https://github.com/Auros/SmartImage)
 * [Swipe detector](https://github.com/burning-laboratory/unity-swipe-input)
