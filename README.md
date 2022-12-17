@@ -50,6 +50,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Amplify Impostors](https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-119877) - 2D LOD for 3D objects
 
 ### Programming
+* [AsyncFileDownloader](https://github.com/jpgordon00/UnityFileDownloader)
 * [AsyncImageLoader](https://github.com/Looooong/UnityAsyncImageLoader)
 * [Geometric Tools](https://www.geometrictools.com/Samples/Physics.html)
 * [MathFS](https://github.com/FreyaHolmer/Mathfs)
@@ -125,6 +126,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Quick Build](https://github.com/Smidgens/unity-qbuild)
 * [StbImageSharpForUnity](https://github.com/mochi-neko/StbImageSharpForUnity) - byte/Stream to Texture2D
 * [WebGL Optimizer](https://assetstore.unity.com/packages/tools/utilities/webgl-optimizer-230446)
+* [UnityCef](https://github.com/WiiPlayer2/UnityCef) - A web browser component for Unity
 
 ## Repos
 * [HDRP Toon Shaders](https://github.com/chrisloop/HDRP2020Toon2)
