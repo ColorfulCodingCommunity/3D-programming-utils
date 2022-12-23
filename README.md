@@ -105,6 +105,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [HTTP Debugger](https://github.com/ErnSur/Unity-Http-Debugger)
 * [More Attributes](https://assetstore.unity.com/packages/tools/utilities/more-attributes-229818)
 * [NSelection](https://github.com/vertxxyz/NSelection)
+* [Package2Folder](https://github.com/Code-Stage/Package2Folder) - Allows to import Unity packages into specified folder to avoid your project's root bloating.
 * [Pivot Editor](https://github.com/yasirkula/UnityAdjustPivot)
 * [PlayerPrefsEditor](https://github.com/Dysman/bgTools-playerPrefsEditor)
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) - IMGUI extensions
