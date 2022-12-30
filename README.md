@@ -60,6 +60,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Serialize Reference Extensions](https://github.com/mackysoft/Unity-SerializeReferenceExtensions)
 
 ### Shaders and VFX
+* [AmplifyOcclusion URP](https://github.com/neon-age/AmplifyOcclusion-URP)
 * [Atmospheric Scattering](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)
 * [Bake Shaders](https://github.com/Cyanilux/BakeShader)
 * [Deferred Decals](https://github.com/SanielX/DeferredDecals)
@@ -72,6 +73,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Outlines](https://github.com/Robinseibold/Unity-URP-Outlines)
 * [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
+* [Realtime Atmosphere](https://github.com/AKGWSB/RealTimeAtmosphere) - URP
 * [Rhea - Geometry Shader Grass](https://github.com/Ryan-Gee/RheaGrass)
 * [Ripple Effect](https://github.com/keijiro/RippleEffect)
 * [Simple Water Shaders](https://github.com/nvjob/nvjob-water-shader-simple-and-fast)
