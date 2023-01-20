@@ -12,6 +12,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### Animations
 * [EasyIK](https://github.com/joaen/EasyIK)
 * [Face Mesh Baracuda](https://github.com/keijiro/FaceMeshBarracuda)
+* [Holistic Motion Camera](https://github.com/creativeIKEP/HolisticMotionCapture) - an application that can capture the motion of a person with only a monocular color camera and move the VRM avatar's pose, face, and hands.
 * [Open Kinematic Character Controller](https://github.com/nicholas-maltbie/OpenKCC)
 * [Open Fracture](https://github.com/dgreenheck/OpenFracture)
 * [Polyhidra](https://github.com/IxxyXR/polyhydra-core) - procedural generation toolkit
@@ -25,6 +26,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### AR
 * [3D Reconstruction for ARCore](https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919) - 3D Reconstruction using Chisel Library(Tango 3DR)
 * [Point Cloud Importer/Renderer](https://github.com/keijiro/Pcx)
+
+### VR
+* [Ultimate XR](https://github.com/VRMADA/ultimatexr-unity) - a professional-grade, free, open-source framework and toolkit for Unity
 
 ### Audio
 * [Audio FX Toolkit](https://assetstore.unity.com/packages/tools/audio/audio-fx-toolkit-232142)
@@ -98,9 +102,11 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ## Editor Tools
 * [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
 * [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Find which assets are actually used. Free alternative [Asset Usage Detector](https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837)
+* [Bookmark4Unity](https://github.com/superkerokero/Bookmark4Unity) - A simple unity editor tool to provide basic bookmarking for scene objects, scene view camera positions, and project assets.
 * [Build Tools](https://github.com/attilioHimeki/unity-build-tools)
 * [DebugUtils](https://github.com/vertxxyz/Vertx.Debugging)
 * [Collider Editor](https://assetstore.unity.com/packages/tools/level-design/easy-collider-editor-67880)
+* [Developer Console](https://github.com/anarkila/DeveloperConsole)
 * [EditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) -  Buttons. Scene references. Searchable Enums
 * [Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
 * [In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole)
