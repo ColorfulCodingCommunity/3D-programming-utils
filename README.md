@@ -87,8 +87,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Toon water shader](https://github.com/IronWarrior/ToonWaterShader)
 * [UnityFX Outline](https://github.com/Arvtesh/UnityFx.Outline) - Free Outline effect
 * [URP Antialising](https://github.com/CMDRSpirit/URPTemporalAA)
-* [Water buoyancy](https://github.com/dbrizov/NaughtyWaterBuoyancy)
+* [VFX Toolbox](https://github.com/Unity-Technologies/VFXToolbox) - Unity's toolbox with integration for Houdini and Blender
 * [Volumetric Fake Lights](https://gitlab.com/s-ilent/fake-lights)
+* [Water buoyancy](https://github.com/dbrizov/NaughtyWaterBuoyancy)
 * [Watercolor Postprocessing](https://github.com/keijiro/KinoAqua)
 * [XSVolumetrics](https://github.com/Xiexe/XSVolumetrics?utm_source=pocket_mylist)
 
