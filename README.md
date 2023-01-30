@@ -169,6 +169,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [React-Three-A11y](https://github.com/pmndrs/react-three-a11y) - Accessibility tools for React Three Fiber
 * [THREEx](http://www.threejsgames.com/extensions/)
 * [Three-Landscape](https://www.npmjs.com/package/three-landscape)
+* [WebAR-rocks-faceDepth](https://github.com/WebAR-rocks/WebAR.rocks.faceDepth) - import your face into ThreeJS
 
 ## Tools & Open Source Projects
 * [Mozilla Hubs](https://hubs.mozilla.com/)
