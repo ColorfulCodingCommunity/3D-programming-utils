@@ -9,6 +9,10 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [Lightmapping in Unity Troubleshooting guide](https://forum.unity.com/threads/lightmapping-troubleshooting-guide.1340936/#post-8466923)
 
 ## Other interesting assets
+
+### 2D
+* [Sprite Outline](https://github.com/keijiro/SpriteOutlineFx)
+
 ### Animations
 * [EasyIK](https://github.com/joaen/EasyIK)
 * [Face Mesh Baracuda](https://github.com/keijiro/FaceMeshBarracuda)
@@ -27,11 +31,33 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [3D Reconstruction for ARCore](https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919) - 3D Reconstruction using Chisel Library(Tango 3DR)
 * [Point Cloud Importer/Renderer](https://github.com/keijiro/Pcx)
 
-### VR
-* [Ultimate XR](https://github.com/VRMADA/ultimatexr-unity) - a professional-grade, free, open-source framework and toolkit for Unity
-
 ### Audio
 * [Audio FX Toolkit](https://assetstore.unity.com/packages/tools/audio/audio-fx-toolkit-232142)
+
+### Editor Tools
+* [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
+* [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Find which assets are actually used. Free alternative [Asset Usage Detector](https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837)
+* [Bookmark4Unity](https://github.com/superkerokero/Bookmark4Unity) - A simple unity editor tool to provide basic bookmarking for scene objects, scene view camera positions, and project assets.
+* [Build Tools](https://github.com/attilioHimeki/unity-build-tools)
+* [DebugUtils](https://github.com/vertxxyz/Vertx.Debugging)
+* [Collider Editor](https://assetstore.unity.com/packages/tools/level-design/easy-collider-editor-67880)
+* [Developer Console](https://github.com/anarkila/DeveloperConsole)
+* [EditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) -  Buttons. Scene references. Searchable Enums
+* [Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
+* [In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole)
+* [HTTP Debugger](https://github.com/ErnSur/Unity-Http-Debugger)
+* [More Attributes](https://assetstore.unity.com/packages/tools/utilities/more-attributes-229818)
+* [NSelection](https://github.com/vertxxyz/NSelection)
+* [Package2Folder](https://github.com/Code-Stage/Package2Folder) - Allows to import Unity packages into specified folder to avoid your project's root bloating.
+* [Pivot Editor](https://github.com/yasirkula/UnityAdjustPivot)
+* [PlayerPrefsEditor](https://github.com/Dysman/bgTools-playerPrefsEditor)
+* [RapidGUI](https://github.com/fuqunaga/RapidGUI) - IMGUI extensions
+* [Readme Lite](https://assetstore.unity.com/packages/tools/utilities/readme-lite-156751?aid=1101l9Bhe)
+* [Runtime Monitoring](https://github.com/JohnBaracuda/Runtime-Monitoring)
+* [Scene-View-Bookmarks](https://github.com/mminer/scene-view-bookmarks) - camera position bookmarking
+* [Switch Attributes](https://github.com/ghysc/SwitchAttribute)
+* [Unity Dependency Toolkit](https://github.com/ultraleap/Unity-Dependency-Toolkit)
+* [Vertx Debugging Tools](https://github.com/vertxxyz/Vertx.Debugging)
 
 ### Geometry
 * [Infinity Foliage](https://github.com/haolange/InfinityFoliage) - GPU-driven trees and grass
@@ -53,6 +79,20 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### Optimizations
 * [Amplify Impostors](https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-119877) - 2D LOD for 3D objects
 
+### Other Tools
+* [Arc Raycast](https://github.com/williamrjackson/UnityArcRayCast) - Projectile formulas
+* [Bezier Solution](https://github.com/yasirkula/UnityBezierSolution) or [Unity Path Generator](https://github.com/KimYC1223/UnityPathGenerator)
+* [FBX Exporter](https://assetstore.unity.com/packages/essentials/fbx-exporter-101408)
+* [Git Scene Merge](http://flashg.github.io/GitMerge-for-Unity/)
+* [GLTF Importer](https://github.com/atteneder/glTFast?es_id=99f3c51e75)
+* [IML - Interact Machine Learning](https://github.com/Interactml/iml-unity) - visual script Machine Learning
+* [vGLTF](https://github.com/yutopp/VGltf)
+* [Noise Generator](https://github.com/AndreaDev3D/EasyNoise)
+* [Quick Build](https://github.com/Smidgens/unity-qbuild)
+* [StbImageSharpForUnity](https://github.com/mochi-neko/StbImageSharpForUnity) - byte/Stream to Texture2D
+* [WebGL Optimizer](https://assetstore.unity.com/packages/tools/utilities/webgl-optimizer-230446)
+* [UnityCef](https://github.com/WiiPlayer2/UnityCef) - A web browser component for Unity
+
 ### Programming
 * [AsyncFileDownloader](https://github.com/jpgordon00/UnityFileDownloader)
 * [AsyncImageLoader](https://github.com/Looooong/UnityAsyncImageLoader)
@@ -63,7 +103,20 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Serializable Dictionary](https://github.com/upscalebaby/generic-serializable-dictionary)
 * [Serialize Reference Extensions](https://github.com/mackysoft/Unity-SerializeReferenceExtensions)
 
-### Shaders and VFX
+## Projects
+* [Brush texture drawing component](https://github.com/sugi-cho/Unity-ProjectionSpray-v2/tree/master/Assets/01_SimpleDraw/Scripts)
+* [Open Chisel](https://github.com/personalrobotics/OpenChisel) - implementation of a generic truncated signed distance field (TSDF) 3D mapping library
+* [TiltBrush](https://github.com/googlevr/tilt-brush)
+
+## Repos
+* [HDRP Toon Shaders](https://github.com/chrisloop/HDRP2020Toon2)
+* [AudioVisual tons of good stuff](https://github.com/keijiro)
+
+## Scripts
+* [Texture Rescale](http://wiki.unity3d.com/index.php/TextureScale?_ga=2.204131607.686182911.1572621691-1454743221.1512123055)
+* [URP Mirror](https://github.com/Avdbergnmf/UnityURPMirrorShader)
+
+### Shaders & VFX
 * [AmplifyOcclusion URP](https://github.com/neon-age/AmplifyOcclusion-URP)
 * [Atmospheric Scattering](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)
 * [Bake Shaders](https://github.com/Cyanilux/BakeShader)
@@ -93,6 +146,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Watercolor Postprocessing](https://github.com/keijiro/KinoAqua)
 * [XSVolumetrics](https://github.com/Xiexe/XSVolumetrics?utm_source=pocket_mylist)
 
+## Third Party
+* [Voice line cutter](https://voicelinecutter.xyz/)
+
  ### Unity UI
  * [Rounded Corners Shader](https://github.com/Nobinator/Unity-UI-Rounded-Corners)
  * [SVG importer](https://github.com/Artees/SVGImporter)
@@ -100,59 +156,8 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
  * [UIComponents](https://github.com/jonisavo/uicomponents) - UIToolkit decoupling and DI
 
-## Editor Tools
-* [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
-* [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Find which assets are actually used. Free alternative [Asset Usage Detector](https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837)
-* [Bookmark4Unity](https://github.com/superkerokero/Bookmark4Unity) - A simple unity editor tool to provide basic bookmarking for scene objects, scene view camera positions, and project assets.
-* [Build Tools](https://github.com/attilioHimeki/unity-build-tools)
-* [DebugUtils](https://github.com/vertxxyz/Vertx.Debugging)
-* [Collider Editor](https://assetstore.unity.com/packages/tools/level-design/easy-collider-editor-67880)
-* [Developer Console](https://github.com/anarkila/DeveloperConsole)
-* [EditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) -  Buttons. Scene references. Searchable Enums
-* [Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
-* [In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole)
-* [HTTP Debugger](https://github.com/ErnSur/Unity-Http-Debugger)
-* [More Attributes](https://assetstore.unity.com/packages/tools/utilities/more-attributes-229818)
-* [NSelection](https://github.com/vertxxyz/NSelection)
-* [Package2Folder](https://github.com/Code-Stage/Package2Folder) - Allows to import Unity packages into specified folder to avoid your project's root bloating.
-* [Pivot Editor](https://github.com/yasirkula/UnityAdjustPivot)
-* [PlayerPrefsEditor](https://github.com/Dysman/bgTools-playerPrefsEditor)
-* [RapidGUI](https://github.com/fuqunaga/RapidGUI) - IMGUI extensions
-* [Readme Lite](https://assetstore.unity.com/packages/tools/utilities/readme-lite-156751?aid=1101l9Bhe)
-* [Runtime Monitoring](https://github.com/JohnBaracuda/Runtime-Monitoring)
-* [Scene-View-Bookmarks](https://github.com/mminer/scene-view-bookmarks) - camera position bookmarking
-* [Switch Attributes](https://github.com/ghysc/SwitchAttribute)
-* [Unity Dependency Toolkit](https://github.com/ultraleap/Unity-Dependency-Toolkit)
-* [Vertx Debugging Tools](https://github.com/vertxxyz/Vertx.Debugging)
-
-### Other Tools
-* [Bezier Solution](https://github.com/yasirkula/UnityBezierSolution) or [Unity Path Generator](https://github.com/KimYC1223/UnityPathGenerator)
-* [FBX Exporter](https://assetstore.unity.com/packages/essentials/fbx-exporter-101408)
-* [Git Scene Merge](http://flashg.github.io/GitMerge-for-Unity/)
-* [GLTF Importer](https://github.com/atteneder/glTFast?es_id=99f3c51e75)
-* [IML - Interact Machine Learning](https://github.com/Interactml/iml-unity) - visual script Machine Learning
-* [vGLTF](https://github.com/yutopp/VGltf)
-* [Noise Generator](https://github.com/AndreaDev3D/EasyNoise)
-* [Quick Build](https://github.com/Smidgens/unity-qbuild)
-* [StbImageSharpForUnity](https://github.com/mochi-neko/StbImageSharpForUnity) - byte/Stream to Texture2D
-* [WebGL Optimizer](https://assetstore.unity.com/packages/tools/utilities/webgl-optimizer-230446)
-* [UnityCef](https://github.com/WiiPlayer2/UnityCef) - A web browser component for Unity
-
-## Repos
-* [HDRP Toon Shaders](https://github.com/chrisloop/HDRP2020Toon2)
-* [AudioVisual tons of good stuff](https://github.com/keijiro)
-
-## Scripts
-* [Texture Rescale](http://wiki.unity3d.com/index.php/TextureScale?_ga=2.204131607.686182911.1572621691-1454743221.1512123055)
-* [URP Mirror](https://github.com/Avdbergnmf/UnityURPMirrorShader)
-
-## Projects
-* [Brush texture drawing component](https://github.com/sugi-cho/Unity-ProjectionSpray-v2/tree/master/Assets/01_SimpleDraw/Scripts)
-* [Open Chisel](https://github.com/personalrobotics/OpenChisel) - implementation of a generic truncated signed distance field (TSDF) 3D mapping library
-* [TiltBrush](https://github.com/googlevr/tilt-brush)
-
-## Third Party
-* [Voice line cutter](https://voicelinecutter.xyz/)
+### VR
+* [Ultimate XR](https://github.com/VRMADA/ultimatexr-unity) - a professional-grade, free, open-source framework and toolkit for Unity
 
 ---
 
