@@ -155,6 +155,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [Soft Masks](https://github.com/mob-sakai/SoftMaskForUGUI)
  * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
  * [UIComponents](https://github.com/jonisavo/uicomponents) - UIToolkit decoupling and DI
+ * [UI Effects](https://github.com/mob-sakai/UIEffect)
 
 ### VR
 * [Ultimate XR](https://github.com/VRMADA/ultimatexr-unity) - a professional-grade, free, open-source framework and toolkit for Unity
