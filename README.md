@@ -93,6 +93,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [WebGL Optimizer](https://assetstore.unity.com/packages/tools/utilities/webgl-optimizer-230446)
 * [UnityCef](https://github.com/WiiPlayer2/UnityCef) - A web browser component for Unity
 
+### Physics
+* [Cable Physics](https://github.com/Hrober0/Cable-physics?)
+
 ### Programming
 * [AsyncFileDownloader](https://github.com/jpgordon00/UnityFileDownloader)
 * [AsyncImageLoader](https://github.com/Looooong/UnityAsyncImageLoader)
@@ -117,6 +120,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [URP Mirror](https://github.com/Avdbergnmf/UnityURPMirrorShader)
 
 ### Shaders & VFX
+* [AI Shader](https://github.com/keijiro/AIShader)
 * [AmplifyOcclusion URP](https://github.com/neon-age/AmplifyOcclusion-URP)
 * [Atmospheric Scattering](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)
 * [Bake Shaders](https://github.com/Cyanilux/BakeShader)
