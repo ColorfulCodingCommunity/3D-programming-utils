@@ -204,4 +204,5 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ---
 # AI
 * [AI Image Upscaler](https://github.com/upscayl/upscayl)
+* [Monocular Depth Unity](https://github.com/GeorgeAdamon/monocular-depth-unity)
 * [Unity Text2Mesh)(https://github.com/threedle/text2mesh)
