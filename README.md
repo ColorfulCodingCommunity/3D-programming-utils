@@ -33,6 +33,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### Audio
 * [Audio FX Toolkit](https://assetstore.unity.com/packages/tools/audio/audio-fx-toolkit-232142)
+* [Audio Recorder](https://github.com/Mukarillo/UnityAudioRecorder?)
 
 ### Editor Tools
 * [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
@@ -51,6 +52,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Package2Folder](https://github.com/Code-Stage/Package2Folder) - Allows to import Unity packages into specified folder to avoid your project's root bloating.
 * [Pivot Editor](https://github.com/yasirkula/UnityAdjustPivot)
 * [PlayerPrefsEditor](https://github.com/Dysman/bgTools-playerPrefsEditor)
+* [Proxima Inspector - live debugger](https://assetstore.unity.com/packages/tools/utilities/proxima-inspector-244788)
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) - IMGUI extensions
 * [Readme Lite](https://assetstore.unity.com/packages/tools/utilities/readme-lite-156751?aid=1101l9Bhe)
 * [Runtime Monitoring](https://github.com/JohnBaracuda/Runtime-Monitoring)
