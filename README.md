@@ -26,6 +26,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Soft bones](https://github.com/EZhex1991/EZSoftBone)
 * [uLipSync](https://github.com/hecomi/uLipSync) - Lip Sync
 * [Rhubarb Lipsync](https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer)
+* [Tween Playables](https://github.com/AnnulusGames/TweenPlayables?)
 
 ### AR
 * [3D Reconstruction for ARCore](https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919) - 3D Reconstruction using Chisel Library(Tango 3DR)
@@ -195,6 +196,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ---
 # Blender
 ## Add-ons
+* [BlenderGPT](https://github.com/gd3kr/BlenderGPT)
 * [Dream Textures](https://github.com/carson-katri/dream-textures) - texture creating Stable Diffusion
 * [Export Paper Model](https://blender-addons.org/export-paper-model-addon/)
 * [fSpy](https://fspy.io/) - Open Source Still camera matching
@@ -207,4 +209,5 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 # AI
 * [AI Image Upscaler](https://github.com/upscayl/upscayl)
 * [Monocular Depth Unity](https://github.com/GeorgeAdamon/monocular-depth-unity)
+* [Unity CoreML Stable Diffusion](https://github.com/keijiro/UnityMLStableDiffusion?)
 * [Unity Text2Mesh)(https://github.com/threedle/text2mesh)
