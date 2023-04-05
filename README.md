@@ -45,6 +45,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Collider Editor](https://assetstore.unity.com/packages/tools/level-design/easy-collider-editor-67880)
 * [Developer Console](https://github.com/anarkila/DeveloperConsole)
 * [EditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) -  Buttons. Scene references. Searchable Enums
+* [Editor Icons](https://github.com/halak/unity-editor-icons)
 * [Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
 * [In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole)
 * [HTTP Debugger](https://github.com/ErnSur/Unity-Http-Debugger)
@@ -59,6 +60,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Runtime Monitoring](https://github.com/JohnBaracuda/Runtime-Monitoring)
 * [Scene-View-Bookmarks](https://github.com/mminer/scene-view-bookmarks) - camera position bookmarking
 * [Switch Attributes](https://github.com/ghysc/SwitchAttribute)
+* [Toolbar extender](https://github.com/marijnz/unity-toolbar-extender)
 * [Unity Dependency Toolkit](https://github.com/ultraleap/Unity-Dependency-Toolkit)
 * [Vertx Debugging Tools](https://github.com/vertxxyz/Vertx.Debugging)
 
