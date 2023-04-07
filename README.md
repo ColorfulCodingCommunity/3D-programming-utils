@@ -116,6 +116,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Open Chisel](https://github.com/personalrobotics/OpenChisel) - implementation of a generic truncated signed distance field (TSDF) 3D mapping library
 * [TiltBrush](https://github.com/googlevr/tilt-brush)
 
+## Rendering
+* [URP Custom Lighting](https://github.com/Cyanilux/URP_ShaderGraphCustomLighting)
+
 ## Repos
 * [HDRP Toon Shaders](https://github.com/chrisloop/HDRP2020Toon2)
 * [AudioVisual tons of good stuff](https://github.com/keijiro)
