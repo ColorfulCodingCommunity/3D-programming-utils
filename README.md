@@ -17,6 +17,8 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [EasyIK](https://github.com/joaen/EasyIK)
 * [Face Mesh Baracuda](https://github.com/keijiro/FaceMeshBarracuda)
 * [Holistic Motion Camera](https://github.com/creativeIKEP/HolisticMotionCapture) - an application that can capture the motion of a person with only a monocular color camera and move the VRM avatar's pose, face, and hands.
+* [Mixamo Animation fix Postprocessor](https://github.com/adammyhre/AnimationPostProcessor)
+* [Naughty Character](https://github.com/dbrizov/NaughtyCharacter?) - 3rd party character controller
 * [Open Kinematic Character Controller](https://github.com/nicholas-maltbie/OpenKCC)
 * [Open Fracture](https://github.com/dgreenheck/OpenFracture)
 * [Polyhidra](https://github.com/IxxyXR/polyhydra-core) - procedural generation toolkit
@@ -216,3 +218,4 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Monocular Depth Unity](https://github.com/GeorgeAdamon/monocular-depth-unity)
 * [Unity CoreML Stable Diffusion](https://github.com/keijiro/UnityMLStableDiffusion?)
 * [Unity Text2Mesh)(https://github.com/threedle/text2mesh)
+* [Whisper AI - Unity](https://github.com/Macoron/whisper.unity?)
