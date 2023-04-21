@@ -85,6 +85,8 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### Optimizations
 * [Amplify Impostors](https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-119877) - 2D LOD for 3D objects
+* [Missing References Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter?)
+* [Texture Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter?)
 
 ### Other Tools
 * [Arc Raycast](https://github.com/williamrjackson/UnityArcRayCast) - Projectile formulas
@@ -119,6 +121,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [TiltBrush](https://github.com/googlevr/tilt-brush)
 
 ## Rendering
+* [Toon Render Pipeline](https://github.com/Delt06/toon-rp?)
 * [URP Custom Lighting](https://github.com/Cyanilux/URP_ShaderGraphCustomLighting)
 
 ## Repos
@@ -142,6 +145,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Moxi Ink](https://github.com/komietty/unity-moxi-ink)
 * [Nova Shader](https://github.com/CyberAgentGameEntertainment/NovaShader)
 * [Outlines](https://github.com/Robinseibold/Unity-URP-Outlines)
+* [Planar reflections URP](https://github.com/eldskald/planar-reflections-unity?)
 * [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
 * [Realtime Atmosphere](https://github.com/AKGWSB/RealTimeAtmosphere) - URP
@@ -164,6 +168,8 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Voice line cutter](https://voicelinecutter.xyz/)
 
  ### Unity UI
+ * [Adaptive Grid](https://github.com/cyberaslan/AdaptiveGrid?)
+ * [Graphify Everything](https://github.com/CoffeeVampir3/Graphify?)
  * [Rounded Corners Shader](https://github.com/Nobinator/Unity-UI-Rounded-Corners)
  * [SVG importer](https://github.com/Artees/SVGImporter)
  * [Soft Masks](https://github.com/mob-sakai/SoftMaskForUGUI)
