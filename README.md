@@ -28,6 +28,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Soft bones](https://github.com/EZhex1991/EZSoftBone)
 * [uLipSync](https://github.com/hecomi/uLipSync) - Lip Sync
 * [Rhubarb Lipsync](https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer)
+* [Timeline Tool](https://github.com/pofulu/TimelineTool?) - Change clips realtime, get/set bindings, get clip duration
 * [Tween Playables](https://github.com/AnnulusGames/TweenPlayables?)
 
 ### AR
@@ -104,6 +105,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### Physics
 * [Cable Physics](https://github.com/Hrober0/Cable-physics?)
+* [UCloth VR Demo](https://matusson.itch.io/ucloth-vr-demo)
 
 ### Programming
 * [AsyncFileDownloader](https://github.com/jpgordon00/UnityFileDownloader)
