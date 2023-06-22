@@ -222,6 +222,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Materials since 2007](https://blender-materials.org/)
 * [Material Slot Cleaner](https://www.blendernation.com/2020/02/12/add-on-material-slots-cleaner-free/)
 * Meshroom2Blender
+* [Tracky](https://github.com/Shopify/tracky) - ARKit camera track to blender
 
 ---
 # AI
