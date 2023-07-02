@@ -90,7 +90,8 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Texture Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter?)
 
 ### Other Tools
-* [Arc Raycast](https://github.com/williamrjackson/UnityArcRayCast) - Projectile formulas
+* [3D Grid Layout](https://assetstore.unity.com/packages/tools/utilities/flexalon-3d-grid-layout-free-253638)
+*  [Arc Raycast](https://github.com/williamrjackson/UnityArcRayCast) - Projectile formulas
 * [Bezier Solution](https://github.com/yasirkula/UnityBezierSolution) or [Unity Path Generator](https://github.com/KimYC1223/UnityPathGenerator)
 * [FBX Exporter](https://assetstore.unity.com/packages/essentials/fbx-exporter-101408)
 * [Git Scene Merge](http://flashg.github.io/GitMerge-for-Unity/)
@@ -141,6 +142,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Bake Shaders](https://github.com/Cyanilux/BakeShader)
 * [Deferred Decals](https://github.com/SanielX/DeferredDecals)
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
+* [GPU occlusion culling](https://github.com/przemyslawzaworski/Unity-GPU-Based-Occlusion-Culling?)
 * [Gradient Shader](https://gist.github.com/totallyRonja/85534198166a44160186acfb06ae46a2)
 * [LTCGI](https://github.com/PiMaker/ltcgi) - Realtime area lighting
 * [MagicaVoxel to VFXGraph](https://github.com/Zarbuz/VoxToVFX)
@@ -165,6 +167,10 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Water buoyancy](https://github.com/dbrizov/NaughtyWaterBuoyancy)
 * [Watercolor Postprocessing](https://github.com/keijiro/KinoAqua)
 * [XSVolumetrics](https://github.com/Xiexe/XSVolumetrics?utm_source=pocket_mylist)
+
+
+## Terrain
+* [Area Object Spawner](https://github.com/JahnStar/Hey-Area-Object-Spawner?)
 
 ## Third Party
 * [Voice line cutter](https://voicelinecutter.xyz/)
