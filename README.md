@@ -13,6 +13,10 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### 2D
 * [Sprite Outline](https://github.com/keijiro/SpriteOutlineFx)
 
+### AI
+* [LMNT](https://assetstore.unity.com/packages/tools/generative-ai/lmnt-emotive-ai-speech-for-voiceover-characters-258133) - LMNT: Emotive AI speech for voiceover & characters
+* [NPC AI](https://assetstore.unity.com/packages/tools/behavior-ai/npc-ai-dialog-actions-and-general-intelligence-by-convai-235621)
+
 ### Animations
 * [EasyIK](https://github.com/joaen/EasyIK)
 * [Face Mesh Baracuda](https://github.com/keijiro/FaceMeshBarracuda)
@@ -34,6 +38,13 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### AR
 * [3D Reconstruction for ARCore](https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919) - 3D Reconstruction using Chisel Library(Tango 3DR)
 * [Point Cloud Importer/Renderer](https://github.com/keijiro/Pcx)
+* [Polyhive](https://assetstore.unity.com/packages/tools/generative-ai/polyhive-texture-3d-assets-with-ai-257919) - texture 3D assets with AI)
+* [Replica Studios AI Voice Actors](https://assetstore.unity.com/packages/tools/generative-ai/replica-studios-ai-voice-actors-for-unity-257819)
+* 
+
+### Asset Bundles and Addressables
+* [AssetRipper](https://github.com/AssetRipper/AssetRipper) - Extract assets from bundles and unity3D and others.
+* [AssetStudio](https://github.com/Perfare/AssetStudio/) - https://github.com/Perfare/AssetStudio/
 
 ### Audio
 * [Audio FX Toolkit](https://assetstore.unity.com/packages/tools/audio/audio-fx-toolkit-232142)
@@ -106,6 +117,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### Physics
 * [Cable Physics](https://github.com/Hrober0/Cable-physics?)
+* [StableFluids](https://github.com/keijiro/StableFluids?) - fluids simulator
 * [UCloth VR Demo](https://matusson.itch.io/ucloth-vr-demo)
 
 ### Programming
@@ -167,6 +179,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Water buoyancy](https://github.com/dbrizov/NaughtyWaterBuoyancy)
 * [Watercolor Postprocessing](https://github.com/keijiro/KinoAqua)
 * [XSVolumetrics](https://github.com/Xiexe/XSVolumetrics?utm_source=pocket_mylist)
+* [Zibra Effects](https://assetstore.unity.com/packages/tools/generative-ai/zibra-effects-free-trial-subscription-244461) - advanced vfx creation
 
 
 ## Terrain
@@ -181,6 +194,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [Rounded Corners Shader](https://github.com/Nobinator/Unity-UI-Rounded-Corners)
  * [SVG importer](https://github.com/Artees/SVGImporter)
  * [Soft Masks](https://github.com/mob-sakai/SoftMaskForUGUI)
+ * [Tailwind CSS for UIToolkit](https://github.com/BennyKok/unity-tailwindcss?)
  * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
  * [UIComponents](https://github.com/jonisavo/uicomponents) - UIToolkit decoupling and DI
  * [UI Effects](https://github.com/mob-sakai/UIEffect)
