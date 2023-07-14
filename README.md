@@ -11,6 +11,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ## Other interesting assets
 
 ### 2D
+* [Sprite Assist](https://github.com/sr4dev/Unity-SpriteAssist?)
 * [Sprite Outline](https://github.com/keijiro/SpriteOutlineFx)
 
 ### AI
