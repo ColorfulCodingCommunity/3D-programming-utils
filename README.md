@@ -216,6 +216,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ## Libraries
 * [drei - Extension for r3f](https://github.com/pmndrs/drei)
+* [enhance-shader-lighting](https://github.com/0beqz/enhance-shader-lighting)
 * [gltfjsx](https://github.com/pmndrs/gltfjsx) - Tool to generate JSX from GLTF
 * [Networked AFrame](https://www.npmjs.com/package/networked-aframe)
 * [React-Three-A11y](https://github.com/pmndrs/react-three-a11y) - Accessibility tools for React Three Fiber
