@@ -213,6 +213,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [ThreeJS Journey](https://threejs-journey.xyz/)
 * [http://stemkoski.github.io/](http://stemkoski.github.io/Three.js/index.html)
 * [Good Practices](https://github.com/katopz/best-practices/blob/master/threejs-tips-amd-trick.md)
+* [Lens Flares](https://github.com/ektogamat/lensflare-threejs-vanilla)
 
 ## Libraries
 * [drei - Extension for r3f](https://github.com/pmndrs/drei)
