@@ -254,3 +254,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Unity CoreML Stable Diffusion](https://github.com/keijiro/UnityMLStableDiffusion?)
 * [Unity Text2Mesh)(https://github.com/threedle/text2mesh)
 * [Whisper AI - Unity](https://github.com/Macoron/whisper.unity?)
+
+
+---
+* [VisionOS libraries](https://github.com/stevenpaulhoward/awesome-visionos)
