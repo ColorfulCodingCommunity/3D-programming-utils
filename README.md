@@ -19,6 +19,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [NPC AI](https://assetstore.unity.com/packages/tools/behavior-ai/npc-ai-dialog-actions-and-general-intelligence-by-convai-235621)
 
 ### Animations
+* [Animation Repathing](https://github.com/hfcRed/Animation-Repathing?) - update broken paths
 * [EasyIK](https://github.com/joaen/EasyIK)
 * [Face Mesh Baracuda](https://github.com/keijiro/FaceMeshBarracuda)
 * [Holistic Motion Camera](https://github.com/creativeIKEP/HolisticMotionCapture) - an application that can capture the motion of a person with only a monocular color camera and move the VRM avatar's pose, face, and hands.
@@ -69,6 +70,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Package2Folder](https://github.com/Code-Stage/Package2Folder) - Allows to import Unity packages into specified folder to avoid your project's root bloating.
 * [Pivot Editor](https://github.com/yasirkula/UnityAdjustPivot)
 * [PlayerPrefsEditor](https://github.com/Dysman/bgTools-playerPrefsEditor)
+* [Project Pin Board](https://github.com/ichenpipi/unity-project-pin-board?)
 * [Proxima Inspector - live debugger](https://assetstore.unity.com/packages/tools/utilities/proxima-inspector-244788)
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) - IMGUI extensions
 * [Readme Lite](https://assetstore.unity.com/packages/tools/utilities/readme-lite-156751?aid=1101l9Bhe)
@@ -84,6 +86,10 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Metaballs](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
 * [Spline Mesh](https://github.com/methusalah/SplineMesh)
 * [Unity Grass Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer)
+
+
+### Lighting
+* [Probe Grid and Cut](https://assetstore.unity.com/packages/tools/utilities/probegridandcut-215133?aid=1011l8NVc&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker)
 
 ### Mobile
 * [AutoScreen for Unity2021](https://github.com/su10/AutoScreen-for-Unity2021) - Safea area for Device Simulator
@@ -157,6 +163,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
 * [GPU occlusion culling](https://github.com/przemyslawzaworski/Unity-GPU-Based-Occlusion-Culling?)
 * [Gradient Shader](https://gist.github.com/totallyRonja/85534198166a44160186acfb06ae46a2)
+* [kDecals](https://github.com/Kink3d/kDecals?)
 * [LTCGI](https://github.com/PiMaker/ltcgi) - Realtime area lighting
 * [MagicaVoxel to VFXGraph](https://github.com/Zarbuz/VoxToVFX)
 * [Moxi Ink](https://github.com/komietty/unity-moxi-ink)
@@ -197,6 +204,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [Soft Masks](https://github.com/mob-sakai/SoftMaskForUGUI)
  * [Tailwind CSS for UIToolkit](https://github.com/BennyKok/unity-tailwindcss?)
  * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
+ * [UI Blur](https://github.com/lukakldiashvili/Unified-Universal-Blur?)
  * [UIComponents](https://github.com/jonisavo/uicomponents) - UIToolkit decoupling and DI
  * [UI Effects](https://github.com/mob-sakai/UIEffect)
 
