@@ -39,10 +39,11 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### AR
 * [3D Reconstruction for ARCore](https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919) - 3D Reconstruction using Chisel Library(Tango 3DR)
+* [AR Color Mapping](https://github.com/airar-dev/Unity-AR-ColorMapping?)
 * [Point Cloud Importer/Renderer](https://github.com/keijiro/Pcx)
 * [Polyhive](https://assetstore.unity.com/packages/tools/generative-ai/polyhive-texture-3d-assets-with-ai-257919) - texture 3D assets with AI)
 * [Replica Studios AI Voice Actors](https://assetstore.unity.com/packages/tools/generative-ai/replica-studios-ai-voice-actors-for-unity-257819)
-* 
+  
 
 ### Asset Bundles and Addressables
 * [AssetRipper](https://github.com/AssetRipper/AssetRipper) - Extract assets from bundles and unity3D and others.
@@ -100,6 +101,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Record and Repeat](https://github.com/fx-lange/unity-record-and-repeat)
 * [Smart Image](https://github.com/Auros/SmartImage)
 * [Swipe detector](https://github.com/burning-laboratory/unity-swipe-input)
+* [Touch Controls](https://github.com/jocic/unity-touch-controls?)
 * [UMP](https://assetstore.unity.com/packages/tools/video/ump-win-mac-linux-webgl-49625) - Used it for receiving live-streaming YT videos
 
 ### Optimizations
@@ -124,12 +126,14 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### Physics
 * [Cable Physics](https://github.com/Hrober0/Cable-physics?)
+* [Soft2D](https://github.com/taichi-dev/soft2d-for-unity?) - Soft bodies
 * [StableFluids](https://github.com/keijiro/StableFluids?) - fluids simulator
 * [UCloth VR Demo](https://matusson.itch.io/ucloth-vr-demo)
 
 ### Programming
 * [AsyncFileDownloader](https://github.com/jpgordon00/UnityFileDownloader)
 * [AsyncImageLoader](https://github.com/Looooong/UnityAsyncImageLoader)
+* [BehaviourTreeEditor](https://github.com/thekiwicoder0/UnityBehaviourTreeEditor?)
 * [Geometric Tools](https://www.geometrictools.com/Samples/Physics.html)
 * [MathFS](https://github.com/FreyaHolmer/Mathfs)
 * [Naughty Attributes](https://github.com/dbrizov/NaughtyAttributes)
