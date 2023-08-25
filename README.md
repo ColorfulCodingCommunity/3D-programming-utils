@@ -51,6 +51,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### Audio
 * [Audio FX Toolkit](https://assetstore.unity.com/packages/tools/audio/audio-fx-toolkit-232142)
+* [Audio Loader](https://github.com/IvanMurzak/Unity-AudioLoader?)
 * [Audio Recorder](https://github.com/Mukarillo/UnityAudioRecorder?)
 
 ### Editor Tools
