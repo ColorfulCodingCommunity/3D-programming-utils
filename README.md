@@ -91,6 +91,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 
 ### Lighting
+* [Lightmap Switching Tool](https://github.com/laurenth-personal/lightmap-switching-tool?)
 * [Probe Grid and Cut](https://assetstore.unity.com/packages/tools/utilities/probegridandcut-215133?aid=1011l8NVc&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker)
 
 ### Mobile
@@ -156,6 +157,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [AudioVisual tons of good stuff](https://github.com/keijiro)
 
 ## Scripts
+* [Archiver](https://github.com/LightBuzz/Archiver-Unity?) - Zip/Unzip
 * [Texture Rescale](http://wiki.unity3d.com/index.php/TextureScale?_ga=2.204131607.686182911.1572621691-1454743221.1512123055)
 * [URP Mirror](https://github.com/Avdbergnmf/UnityURPMirrorShader)
 
