@@ -19,6 +19,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [NPC AI](https://assetstore.unity.com/packages/tools/behavior-ai/npc-ai-dialog-actions-and-general-intelligence-by-convai-235621)
 
 ### Animations
+* [Animatable Volume Component](https://github.com/cji3bp62000/AnimatableVolumeComponent/blob/main/README_en.md)
 * [Animation Repathing](https://github.com/hfcRed/Animation-Repathing?) - update broken paths
 * [EasyIK](https://github.com/joaen/EasyIK)
 * [Face Mesh Baracuda](https://github.com/keijiro/FaceMeshBarracuda)
@@ -252,6 +253,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ---
 # Blender
 ## Add-ons
+* [Blender-To-Unity](https://github.com/EdyJ/blender-to-unity-fbx-exporter)
 * [BlenderGPT](https://github.com/gd3kr/BlenderGPT)
 * [Dream Textures](https://github.com/carson-katri/dream-textures) - texture creating Stable Diffusion
 * [Export Paper Model](https://blender-addons.org/export-paper-model-addon/)
