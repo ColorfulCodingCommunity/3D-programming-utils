@@ -93,6 +93,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### Lighting
 * [Lightmap Switching Tool](https://github.com/laurenth-personal/lightmap-switching-tool?)
+* [LTCGI](https://github.com/PiMaker/ltcgi?) - Realtime area lights
 * [Probe Grid and Cut](https://assetstore.unity.com/packages/tools/utilities/probegridandcut-215133?aid=1011l8NVc&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker)
 
 ### Mobile
