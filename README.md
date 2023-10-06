@@ -54,6 +54,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Audio FX Toolkit](https://assetstore.unity.com/packages/tools/audio/audio-fx-toolkit-232142)
 * [Audio Loader](https://github.com/IvanMurzak/Unity-AudioLoader?)
 * [Audio Recorder](https://github.com/Mukarillo/UnityAudioRecorder?)
+* [Audio Scripts](https://github.com/CaioMJ/Unity-Audio-Scripts?)
 
 ### Editor Tools
 * [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
@@ -125,11 +126,13 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Noise Generator](https://github.com/AndreaDev3D/EasyNoise)
 * [Quick Build](https://github.com/Smidgens/unity-qbuild)
 * [StbImageSharpForUnity](https://github.com/mochi-neko/StbImageSharpForUnity) - byte/Stream to Texture2D
+* [Stereoscopic 3D](https://github.com/Vital-Volkov/Stereoscopic-3D-system-for-Unity-2019-?)
 * [WebGL Optimizer](https://assetstore.unity.com/packages/tools/utilities/webgl-optimizer-230446)
 * [UnityCef](https://github.com/WiiPlayer2/UnityCef) - A web browser component for Unity
 
 ### Physics
 * [Cable Physics](https://github.com/Hrober0/Cable-physics?)
+* [Collider Optimizer](https://github.com/aniketrajnish/Unity-Collider-Optimizer?)
 * [Soft2D](https://github.com/taichi-dev/soft2d-for-unity?) - Soft bodies
 * [StableFluids](https://github.com/keijiro/StableFluids?) - fluids simulator
 * [UCloth VR Demo](https://matusson.itch.io/ucloth-vr-demo)
