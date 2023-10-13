@@ -99,6 +99,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### Mobile
 * [AutoScreen for Unity2021](https://github.com/su10/AutoScreen-for-Unity2021) - Safea area for Device Simulator
+* [Better Joystick](https://github.com/techno-dwarf-works/better-joystick?)
 * [Capture and Save Lite](https://assetstore.unity.com/packages/tools/integration/capture-and-save-lite-18755) - Make a screenshot and save it to gallery.
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
 * [Native Dialog](https://github.com/j1mmyto9/unity-mobile-dialog-popup-native)
@@ -176,6 +177,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [GPU occlusion culling](https://github.com/przemyslawzaworski/Unity-GPU-Based-Occlusion-Culling?)
 * [Gradient Shader](https://gist.github.com/totallyRonja/85534198166a44160186acfb06ae46a2)
 * [kDecals](https://github.com/Kink3d/kDecals?)
+* [Layer-based Glow](https://github.com/nobnak/LayredGlow?)
 * [LTCGI](https://github.com/PiMaker/ltcgi) - Realtime area lighting
 * [MagicaVoxel to VFXGraph](https://github.com/Zarbuz/VoxToVFX)
 * [Moxi Ink](https://github.com/komietty/unity-moxi-ink)
