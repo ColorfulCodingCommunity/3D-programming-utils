@@ -70,6 +70,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole)
 * [HTTP Debugger](https://github.com/ErnSur/Unity-Http-Debugger)
 * [More Attributes](https://assetstore.unity.com/packages/tools/utilities/more-attributes-229818)
+* [Mx](https://github.com/jcs090218/Unity.Mx?) - command-based completion framework
 * [NSelection](https://github.com/vertxxyz/NSelection)
 * [Package2Folder](https://github.com/Code-Stage/Package2Folder) - Allows to import Unity packages into specified folder to avoid your project's root bloating.
 * [Pivot Editor](https://github.com/yasirkula/UnityAdjustPivot)
@@ -155,6 +156,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [TiltBrush](https://github.com/googlevr/tilt-brush)
 
 ## Rendering
+* [Atmospheric Scattering URP](https://github.com/sinnwrig/URP-Atmosphere?)
+* [Baked Volumetrics](https://github.com/frostbone25/Unity-Baked-Volumetrics?) - lightweight
+* [FernRender](https://github.com/FernRender/FernRender?) - all kinds of rendering utils
 * [Toon Render Pipeline](https://github.com/Delt06/toon-rp?)
 * [URP Custom Lighting](https://github.com/Cyanilux/URP_ShaderGraphCustomLighting)
 
@@ -221,6 +225,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [UI Blur](https://github.com/lukakldiashvili/Unified-Universal-Blur?)
  * [UIComponents](https://github.com/jonisavo/uicomponents) - UIToolkit decoupling and DI
  * [UI Effects](https://github.com/mob-sakai/UIEffect)
+ * [UI Table View](https://github.com/zhaozilong1988/UITableViewForUnity?)
 
 ### VR
 * [Ultimate XR](https://github.com/VRMADA/ultimatexr-unity) - a professional-grade, free, open-source framework and toolkit for Unity
