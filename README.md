@@ -11,6 +11,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ## Other interesting assets
 
 ### 2D
+* [Choco Water](https://github.com/chocola-mint/ChocoWater?)
 * [Sprite Assist](https://github.com/sr4dev/Unity-SpriteAssist?)
 * [Sprite Outline](https://github.com/keijiro/SpriteOutlineFx)
 
@@ -171,6 +172,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Texture Rescale](http://wiki.unity3d.com/index.php/TextureScale?_ga=2.204131607.686182911.1572621691-1454743221.1512123055)
 * [URP Mirror](https://github.com/Avdbergnmf/UnityURPMirrorShader)
 
+## Simulations
+* [BurstWig](https://github.com/keijiro/BurstWig?) - Non-Realistic Hair effect
+
 ### Shaders & VFX
 * [AI Shader](https://github.com/keijiro/AIShader)
 * [AmplifyOcclusion URP](https://github.com/neon-age/AmplifyOcclusion-URP)
@@ -186,6 +190,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [MagicaVoxel to VFXGraph](https://github.com/Zarbuz/VoxToVFX)
 * [Moxi Ink](https://github.com/komietty/unity-moxi-ink)
 * [Nova Shader](https://github.com/CyberAgentGameEntertainment/NovaShader)
+* [OldMovie FX](https://github.com/NullTale/OldMovieFx?)
 * [Outlines](https://github.com/Robinseibold/Unity-URP-Outlines)
 * [Planar reflections URP](https://github.com/eldskald/planar-reflections-unity?)
 * [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
@@ -201,6 +206,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [UnityFX Outline](https://github.com/Arvtesh/UnityFx.Outline) - Free Outline effect
 * [URP Antialising](https://github.com/CMDRSpirit/URPTemporalAA)
 * [VFX Toolbox](https://github.com/Unity-Technologies/VFXToolbox) - Unity's toolbox with integration for Houdini and Blender
+* [VHS FX](https://github.com/NullTale/VhsFx?)
 * [Volumetric Fake Lights](https://gitlab.com/s-ilent/fake-lights)
 * [Water buoyancy](https://github.com/dbrizov/NaughtyWaterBuoyancy)
 * [Watercolor Postprocessing](https://github.com/keijiro/KinoAqua)
@@ -212,6 +218,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Area Object Spawner](https://github.com/JahnStar/Hey-Area-Object-Spawner?)
 
 ## Third Party
+* [UnityImport3D](https://github.com/fhstp/UnityImport3D?)
 * [Voice line cutter](https://voicelinecutter.xyz/)
 
  ### Unity UI
