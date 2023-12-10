@@ -88,6 +88,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Vertx Debugging Tools](https://github.com/vertxxyz/Vertx.Debugging)
 
 ### Geometry
+* [GrassBending](https://github.com/elringus/GrassBending?)
 * [Infinity Foliage](https://github.com/haolange/InfinityFoliage) - GPU-driven trees and grass
 * [Metaballs](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
 * [Spline Mesh](https://github.com/methusalah/SplineMesh)
@@ -218,11 +219,13 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Area Object Spawner](https://github.com/JahnStar/Hey-Area-Object-Spawner?)
 
 ## Third Party
+* [RealWorldMapData](https://github.com/codehoose/real-world-map-data?) - OpenStreetMap integration
 * [UnityImport3D](https://github.com/fhstp/UnityImport3D?)
 * [Voice line cutter](https://voicelinecutter.xyz/)
 
  ### Unity UI
  * [Adaptive Grid](https://github.com/cyberaslan/AdaptiveGrid?)
+ * [CompositeCanvasRender](https://github.com/mob-sakai/CompositeCanvasRenderer)
  * [Graphify Everything](https://github.com/CoffeeVampir3/Graphify?)
  * [Rounded Corners Shader](https://github.com/Nobinator/Unity-UI-Rounded-Corners)
  * [SVG importer](https://github.com/Artees/SVGImporter)
