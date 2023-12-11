@@ -181,6 +181,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [AmplifyOcclusion URP](https://github.com/neon-age/AmplifyOcclusion-URP)
 * [Atmospheric Scattering](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)
 * [Bake Shaders](https://github.com/Cyanilux/BakeShader)
+* [CustomPostprocessingStack](https://github.com/yahiaetman/URPCustomPostProcessingStack)
 * [Deferred Decals](https://github.com/SanielX/DeferredDecals)
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
 * [GPU occlusion culling](https://github.com/przemyslawzaworski/Unity-GPU-Based-Occlusion-Culling?)
