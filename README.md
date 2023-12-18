@@ -18,6 +18,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### AI
 * [LMNT](https://assetstore.unity.com/packages/tools/generative-ai/lmnt-emotive-ai-speech-for-voiceover-characters-258133) - LMNT: Emotive AI speech for voiceover & characters
 * [NPC AI](https://assetstore.unity.com/packages/tools/behavior-ai/npc-ai-dialog-actions-and-general-intelligence-by-convai-235621)
+* [Speech to Text for Android/iOS](https://github.com/yasirkula/UnitySpeechToText?)
 
 ### Animations
 * [Animatable Volume Component](https://github.com/cji3bp62000/AnimatableVolumeComponent/blob/main/README_en.md)
