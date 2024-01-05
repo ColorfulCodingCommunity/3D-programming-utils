@@ -95,6 +95,8 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Spline Mesh](https://github.com/methusalah/SplineMesh)
 * [Unity Grass Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer)
 
+### GPU
+* [GPUInstance](https://github.com/mkrebser/GPUInstance?)
 
 ### Lighting
 * [Lightmap Switching Tool](https://github.com/laurenth-personal/lightmap-switching-tool?)
@@ -227,6 +229,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
  ### Unity UI
  * [Adaptive Grid](https://github.com/cyberaslan/AdaptiveGrid?)
+ * [AnimationUI](https://github.com/DhafinFawwaz/Unity-AnimationUI?)
  * [CompositeCanvasRender](https://github.com/mob-sakai/CompositeCanvasRenderer)
  * [Graphify Everything](https://github.com/CoffeeVampir3/Graphify?)
  * [Rounded Corners Shader](https://github.com/Nobinator/Unity-UI-Rounded-Corners)
