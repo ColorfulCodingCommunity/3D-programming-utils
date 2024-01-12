@@ -11,6 +11,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ## Other interesting assets
 
 ### 2D
+* [2D Lighting](https://github.com/NullTale/GiLight2D?)
 * [Choco Water](https://github.com/chocola-mint/ChocoWater?)
 * [Sprite Assist](https://github.com/sr4dev/Unity-SpriteAssist?)
 * [Sprite Outline](https://github.com/keijiro/SpriteOutlineFx)
@@ -99,6 +100,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [GPUInstance](https://github.com/mkrebser/GPUInstance?)
 
 ### Lighting
+* [Dynamic Lighting](https://github.com/Henry00IS/DynamicLighting?)
 * [Lightmap Switching Tool](https://github.com/laurenth-personal/lightmap-switching-tool?)
 * [LTCGI](https://github.com/PiMaker/ltcgi?) - Realtime area lights
 * [Probe Grid and Cut](https://assetstore.unity.com/packages/tools/utilities/probegridandcut-215133?aid=1011l8NVc&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker)
@@ -141,6 +143,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Cable Physics](https://github.com/Hrober0/Cable-physics?)
 * [Collider Optimizer](https://github.com/aniketrajnish/Unity-Collider-Optimizer?)
 * [Soft2D](https://github.com/taichi-dev/soft2d-for-unity?) - Soft bodies
+* [Soft Bodies](https://github.com/ehsanwwe/Unity-SoftBody-physics?)
 * [StableFluids](https://github.com/keijiro/StableFluids?) - fluids simulator
 * [UCloth VR Demo](https://matusson.itch.io/ucloth-vr-demo)
 
@@ -212,6 +215,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [URP Antialising](https://github.com/CMDRSpirit/URPTemporalAA)
 * [VFX Toolbox](https://github.com/Unity-Technologies/VFXToolbox) - Unity's toolbox with integration for Houdini and Blender
 * [VHS FX](https://github.com/NullTale/VhsFx?)
+* [VolFX](https://github.com/NullTale/VolFx)
 * [Volumetric Fake Lights](https://gitlab.com/s-ilent/fake-lights)
 * [Water buoyancy](https://github.com/dbrizov/NaughtyWaterBuoyancy)
 * [Watercolor Postprocessing](https://github.com/keijiro/KinoAqua)
