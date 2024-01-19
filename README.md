@@ -9,6 +9,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [Lightmapping in Unity Troubleshooting guide](https://forum.unity.com/threads/lightmapping-troubleshooting-guide.1340936/#post-8466923)
 
 ## Other interesting assets
+* [Asset studio](https://github.com/Perfare/AssetStudio)
 
 ### 2D
 * [2D Lighting](https://github.com/NullTale/GiLight2D?)
