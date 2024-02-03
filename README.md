@@ -59,6 +59,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Audio Loader](https://github.com/IvanMurzak/Unity-AudioLoader?)
 * [Audio Recorder](https://github.com/Mukarillo/UnityAudioRecorder?)
 * [Audio Scripts](https://github.com/CaioMJ/Unity-Audio-Scripts?)
+* [FMOD-Syntax](https://github.com/RoyTheunissen/FMOD-Syntax?)
 
 ### Editor Tools
 * [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
@@ -228,6 +229,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Area Object Spawner](https://github.com/JahnStar/Hey-Area-Object-Spawner?)
 
 ## Third Party
+* [AdvancedSharpAdbClient](https://github.com/SharpAdb/AdvancedSharpAdbClient?)
 * [RealWorldMapData](https://github.com/codehoose/real-world-map-data?) - OpenStreetMap integration
 * [UnityImport3D](https://github.com/fhstp/UnityImport3D?)
 * [Voice line cutter](https://voicelinecutter.xyz/)
