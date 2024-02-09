@@ -77,7 +77,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [More Attributes](https://assetstore.unity.com/packages/tools/utilities/more-attributes-229818)
 * [Mx](https://github.com/jcs090218/Unity.Mx?) - command-based completion framework
 * [NSelection](https://github.com/vertxxyz/NSelection)
-* [Package2Folder](https://github.com/Code-Stage/Package2Folder) - Allows to import Unity packages into specified folder to avoid your project's root bloating.
+* [Package2Folder](https://github.com/Code-Stage/Package2Folder) - Allows to import Unity packages into a specified folder to avoid your project's root bloating.
 * [Pivot Editor](https://github.com/yasirkula/UnityAdjustPivot)
 * [PlayerPrefsEditor](https://github.com/Dysman/bgTools-playerPrefsEditor)
 * [Project Pin Board](https://github.com/ichenpipi/unity-project-pin-board?)
@@ -95,6 +95,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [GrassBending](https://github.com/elringus/GrassBending?)
 * [Infinity Foliage](https://github.com/haolange/InfinityFoliage) - GPU-driven trees and grass
 * [Metaballs](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
+* [SliceyMesh](https://github.com/brandf/SliceyMesh?)
 * [Spline Mesh](https://github.com/methusalah/SplineMesh)
 * [Unity Grass Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer)
 
