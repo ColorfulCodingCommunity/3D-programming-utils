@@ -190,6 +190,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [AmplifyOcclusion URP](https://github.com/neon-age/AmplifyOcclusion-URP)
 * [Atmospheric Scattering](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)
 * [Bake Shaders](https://github.com/Cyanilux/BakeShader)
+* [Capsule Ocllusion](https://github.com/Fewes/CapsuleOcclusion?)
 * [CustomPostprocessingStack](https://github.com/yahiaetman/URPCustomPostProcessingStack)
 * [Deferred Decals](https://github.com/SanielX/DeferredDecals)
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
@@ -204,6 +205,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [OldMovie FX](https://github.com/NullTale/OldMovieFx?)
 * [Outlines](https://github.com/Robinseibold/Unity-URP-Outlines)
 * [Planar reflections URP](https://github.com/eldskald/planar-reflections-unity?)
+* [Polyhydra](https://github.com/IxxyXR/polyhydra-core?) - a toolkit for the procedural generation of geometric forms in Unity.
 * [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
 * [Realtime Atmosphere](https://github.com/AKGWSB/RealTimeAtmosphere) - URP
