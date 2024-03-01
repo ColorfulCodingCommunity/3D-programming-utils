@@ -64,6 +64,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### Editor Tools
 * [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
 * [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Find which assets are actually used. Free alternative [Asset Usage Detector](https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837)
+* [Asset Management Tool](https://github.com/NibbleByte/UnityAssetManagementTools?)
 * [Bookmark4Unity](https://github.com/superkerokero/Bookmark4Unity) - A simple unity editor tool to provide basic bookmarking for scene objects, scene view camera positions, and project assets.
 * [Build Tools](https://github.com/attilioHimeki/unity-build-tools)
 * [DebugUtils](https://github.com/vertxxyz/Vertx.Debugging)
@@ -184,6 +185,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ## Simulations
 * [BurstWig](https://github.com/keijiro/BurstWig?) - Non-Realistic Hair effect
+* [InkPainter](https://github.com/EsProgram/InkPainter) - This asset allows you to Texture-Paint on Unity
 
 ### Shaders & VFX
 * [AI Shader](https://github.com/keijiro/AIShader)
@@ -193,6 +195,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Capsule Ocllusion](https://github.com/Fewes/CapsuleOcclusion?)
 * [CustomPostprocessingStack](https://github.com/yahiaetman/URPCustomPostProcessingStack)
 * [Deferred Decals](https://github.com/SanielX/DeferredDecals)
+* [Dynamic Interactable Shader](https://github.com/Umbrason/DynamicInteractableShader?) - Interactive Position subgraph component
 * [Effectcore's VFX packs](https://assetstore.unity.com/publishers/25749) (13$-26$)
 * [GPU occlusion culling](https://github.com/przemyslawzaworski/Unity-GPU-Based-Occlusion-Culling?)
 * [Gradient Shader](https://gist.github.com/totallyRonja/85534198166a44160186acfb06ae46a2)
@@ -204,6 +207,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Nova Shader](https://github.com/CyberAgentGameEntertainment/NovaShader)
 * [OldMovie FX](https://github.com/NullTale/OldMovieFx?)
 * [Outlines](https://github.com/Robinseibold/Unity-URP-Outlines)
+* [PixelationFX](https://github.com/NullTale/PixelationFx?)
 * [Planar reflections URP](https://github.com/eldskald/planar-reflections-unity?)
 * [Polyhydra](https://github.com/IxxyXR/polyhydra-core?) - a toolkit for the procedural generation of geometric forms in Unity.
 * [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
