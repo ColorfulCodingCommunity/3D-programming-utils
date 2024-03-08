@@ -61,6 +61,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Audio Scripts](https://github.com/CaioMJ/Unity-Audio-Scripts?)
 * [FMOD-Syntax](https://github.com/RoyTheunissen/FMOD-Syntax?)
 
+### Cameras
+* [Cinemachine RTS/City Builder Camera Controller](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine?)
+
 ### Editor Tools
 * [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
 * [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Find which assets are actually used. Free alternative [Asset Usage Detector](https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837)
@@ -125,6 +128,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### Optimizations
 * [Amplify Impostors](https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-119877) - 2D LOD for 3D objects
 * [Missing References Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter?)
+* [Precomputed Culling](https://github.com/Prographers/Precomputed-Culling?)
 * [Texture Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter?)
 
 ### Other Tools
@@ -186,6 +190,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ## Simulations
 * [BurstWig](https://github.com/keijiro/BurstWig?) - Non-Realistic Hair effect
 * [InkPainter](https://github.com/EsProgram/InkPainter) - This asset allows you to Texture-Paint on Unity
+* [L-Systems](https://github.com/pboechat/LSystemsInUnity?) - plants and stuff
 
 ### Shaders & VFX
 * [AI Shader](https://github.com/keijiro/AIShader)
@@ -222,6 +227,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Toon water shader](https://github.com/IronWarrior/ToonWaterShader)
 * [UnityFX Outline](https://github.com/Arvtesh/UnityFx.Outline) - Free Outline effect
 * [URP Antialising](https://github.com/CMDRSpirit/URPTemporalAA)
+* [URP Fog Volume](https://github.com/sinnwrig/URP-Fog-Volumes?)
 * [VFX Toolbox](https://github.com/Unity-Technologies/VFXToolbox) - Unity's toolbox with integration for Houdini and Blender
 * [VHS FX](https://github.com/NullTale/VhsFx?)
 * [VolFX](https://github.com/NullTale/VolFx)
