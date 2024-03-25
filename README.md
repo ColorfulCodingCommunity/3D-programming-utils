@@ -19,6 +19,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### AI
 * [LMNT](https://assetstore.unity.com/packages/tools/generative-ai/lmnt-emotive-ai-speech-for-voiceover-characters-258133) - LMNT: Emotive AI speech for voiceover & characters
+* [Navmesh plus](https://github.com/h8man/NavMeshPlus?)
 * [NPC AI](https://assetstore.unity.com/packages/tools/behavior-ai/npc-ai-dialog-actions-and-general-intelligence-by-convai-235621)
 * [Speech to Text for Android/iOS](https://github.com/yasirkula/UnitySpeechToText?)
 
@@ -41,6 +42,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Rhubarb Lipsync](https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer)
 * [Timeline Tool](https://github.com/pofulu/TimelineTool?) - Change clips realtime, get/set bindings, get clip duration
 * [Tween Playables](https://github.com/AnnulusGames/TweenPlayables?)
+* [WaitForAnim](https://github.com/ComradeVanti/UnityWaitForAnim?)
 
 ### AR
 * [3D Reconstruction for ARCore](https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919) - 3D Reconstruction using Chisel Library(Tango 3DR)
@@ -116,7 +118,8 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [AutoScreen for Unity2021](https://github.com/su10/AutoScreen-for-Unity2021) - Safea area for Device Simulator
 * [Better Joystick](https://github.com/techno-dwarf-works/better-joystick?)
 * [Capture and Save Lite](https://assetstore.unity.com/packages/tools/integration/capture-and-save-lite-18755) - Make a screenshot and save it to gallery.
-* [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens. 
+* [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens.
+* [Native Camera](https://github.com/yasirkula/UnityNativeCamera?)
 * [Native Dialog](https://github.com/j1mmyto9/unity-mobile-dialog-popup-native)
 * [Native Sharing](https://github.com/NicholasSheehan/Unity-Native-Sharing)
 * [Record and Repeat](https://github.com/fx-lange/unity-record-and-repeat)
@@ -237,7 +240,6 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [XSVolumetrics](https://github.com/Xiexe/XSVolumetrics?utm_source=pocket_mylist)
 * [Zibra Effects](https://assetstore.unity.com/packages/tools/generative-ai/zibra-effects-free-trial-subscription-244461) - advanced vfx creation
 
-
 ## Terrain
 * [Area Object Spawner](https://github.com/JahnStar/Hey-Area-Object-Spawner?)
 
@@ -255,12 +257,15 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [Rounded Corners Shader](https://github.com/Nobinator/Unity-UI-Rounded-Corners)
  * [SVG importer](https://github.com/Artees/SVGImporter)
  * [Soft Masks](https://github.com/mob-sakai/SoftMaskForUGUI)
- * [Tailwind CSS for UIToolkit](https://github.com/BennyKok/unity-tailwindcss?)
  * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
  * [UI Blur](https://github.com/lukakldiashvili/Unified-Universal-Blur?)
  * [UIComponents](https://github.com/jonisavo/uicomponents) - UIToolkit decoupling and DI
  * [UI Effects](https://github.com/mob-sakai/UIEffect)
  * [UI Table View](https://github.com/zhaozilong1988/UITableViewForUnity?)
+
+### UIToolkit
+ * [UIToolkit Safe Area](https://github.com/artstorm/ui-toolkit-safe-area?)
+ * [Tailwind CSS for UIToolkit](https://github.com/BennyKok/unity-tailwindcss?)
 
 ### VR
 * [Ultimate XR](https://github.com/VRMADA/ultimatexr-unity) - a professional-grade, free, open-source framework and toolkit for Unity
