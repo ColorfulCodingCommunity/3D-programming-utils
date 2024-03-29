@@ -10,6 +10,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ## Other interesting assets
 * [Asset studio](https://github.com/Perfare/AssetStudio)
+* [UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering?) - Render Volumes DICOM, NRRD, MRI scans etc
 
 ### 2D
 * [2D Lighting](https://github.com/NullTale/GiLight2D?)
@@ -39,6 +40,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Skinned Mesh Transfer Tool](https://github.com/CascadianWorks/Unity-Mesh-Transfer-Tool)
 * [Soft bones](https://github.com/EZhex1991/EZSoftBone)
 * [uLipSync](https://github.com/hecomi/uLipSync) - Lip Sync
+* [Render-Crowd-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters?) - GPU-instanced animations for huge character crowds
 * [Rhubarb Lipsync](https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer)
 * [Timeline Tool](https://github.com/pofulu/TimelineTool?) - Change clips realtime, get/set bindings, get clip duration
 * [Tween Playables](https://github.com/AnnulusGames/TweenPlayables?)
@@ -78,6 +80,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [EditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) -  Buttons. Scene references. Searchable Enums
 * [Editor Icons](https://github.com/halak/unity-editor-icons)
 * [Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
+* [Hierarchy Plus](https://github.com/Dreadrith/HierarchyPlus?)
 * [In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole)
 * [HTTP Debugger](https://github.com/ErnSur/Unity-Http-Debugger)
 * [More Attributes](https://assetstore.unity.com/packages/tools/utilities/more-attributes-229818)
@@ -126,6 +129,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Smart Image](https://github.com/Auros/SmartImage)
 * [Swipe detector](https://github.com/burning-laboratory/unity-swipe-input)
 * [Touch Controls](https://github.com/jocic/unity-touch-controls?)
+* [UMI](https://github.com/mopsicus/umi?) - Mobile native input fields
 * [UMP](https://assetstore.unity.com/packages/tools/video/ump-win-mac-linux-webgl-49625) - Used it for receiving live-streaming YT videos
 
 ### Optimizations
@@ -141,6 +145,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [FBX Exporter](https://assetstore.unity.com/packages/essentials/fbx-exporter-101408)
 * [Git Scene Merge](http://flashg.github.io/GitMerge-for-Unity/)
 * [GLTF Importer](https://github.com/atteneder/glTFast?es_id=99f3c51e75)
+* [ICA Normal Tools](https://github.com/icauroboros/Ica_Normal_Tools?) - better recalculated normals
 * [IML - Interact Machine Learning](https://github.com/Interactml/iml-unity) - visual script Machine Learning
 * [vGLTF](https://github.com/yutopp/VGltf)
 * [Noise Generator](https://github.com/AndreaDev3D/EasyNoise)
