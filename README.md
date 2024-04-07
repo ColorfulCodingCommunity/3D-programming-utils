@@ -68,6 +68,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### Cameras
 * [Cinemachine RTS/City Builder Camera Controller](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine?)
 
+### DOTS
+* [NativeTrees](https://github.com/bartofzo/NativeTrees?) - Octree/Quadtree for ECS/DOTS
+
 ### Editor Tools
 * [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
 * [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Find which assets are actually used. Free alternative [Asset Usage Detector](https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837)
@@ -161,6 +164,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Soft2D](https://github.com/taichi-dev/soft2d-for-unity?) - Soft bodies
 * [Soft Bodies](https://github.com/ehsanwwe/Unity-SoftBody-physics?)
 * [StableFluids](https://github.com/keijiro/StableFluids?) - fluids simulator
+* [Time rewinder](https://github.com/SitronX/UnityTimeRewinder?)
 * [UCloth VR Demo](https://matusson.itch.io/ucloth-vr-demo)
 
 ### Programming
