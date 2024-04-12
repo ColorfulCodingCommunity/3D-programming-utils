@@ -271,6 +271,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [UIComponents](https://github.com/jonisavo/uicomponents) - UIToolkit decoupling and DI
  * [UI Effects](https://github.com/mob-sakai/UIEffect)
  * [UI Table View](https://github.com/zhaozilong1988/UITableViewForUnity?)
+ * [UltraWide fixes](https://github.com/p1xel8ted/UltrawideFixes?)
 
 ### UIToolkit
  * [UIToolkit Safe Area](https://github.com/artstorm/ui-toolkit-safe-area?)
