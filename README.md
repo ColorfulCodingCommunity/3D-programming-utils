@@ -75,6 +75,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
 * [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Find which assets are actually used. Free alternative [Asset Usage Detector](https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837)
 * [Asset Management Tool](https://github.com/NibbleByte/UnityAssetManagementTools?)
+* [Asset Tabs](https://github.com/nomnomab/unity-asset-tabs?)
 * [Bookmark4Unity](https://github.com/superkerokero/Bookmark4Unity) - A simple unity editor tool to provide basic bookmarking for scene objects, scene view camera positions, and project assets.
 * [Build Tools](https://github.com/attilioHimeki/unity-build-tools)
 * [DebugUtils](https://github.com/vertxxyz/Vertx.Debugging)
@@ -246,6 +247,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Volumetric Fake Lights](https://gitlab.com/s-ilent/fake-lights)
 * [Water buoyancy](https://github.com/dbrizov/NaughtyWaterBuoyancy)
 * [Watercolor Postprocessing](https://github.com/keijiro/KinoAqua)
+* [Wave Simulator](https://github.com/MirzaBeig/Wave-Simulator)
 * [XSVolumetrics](https://github.com/Xiexe/XSVolumetrics?utm_source=pocket_mylist)
 * [Zibra Effects](https://assetstore.unity.com/packages/tools/generative-ai/zibra-effects-free-trial-subscription-244461) - advanced vfx creation
 
