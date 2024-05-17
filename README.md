@@ -19,6 +19,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Sprite Outline](https://github.com/keijiro/SpriteOutlineFx)
 
 ### AI
+* [DotRecast](https://github.com/ikpil/DotRecast?) - Navmesh generation
 * [LMNT](https://assetstore.unity.com/packages/tools/generative-ai/lmnt-emotive-ai-speech-for-voiceover-characters-258133) - LMNT: Emotive AI speech for voiceover & characters
 * [Navmesh plus](https://github.com/h8man/NavMeshPlus?)
 * [NPC AI](https://assetstore.unity.com/packages/tools/behavior-ai/npc-ai-dialog-actions-and-general-intelligence-by-convai-235621)
@@ -101,6 +102,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Scene-View-Bookmarks](https://github.com/mminer/scene-view-bookmarks) - camera position bookmarking
 * [Switch Attributes](https://github.com/ghysc/SwitchAttribute)
 * [Toolbar extender](https://github.com/marijnz/unity-toolbar-extender)
+* [UGizmo](https://github.com/harumas/UGizmo?)
 * [Unity Dependency Toolkit](https://github.com/ultraleap/Unity-Dependency-Toolkit)
 * [Vertx Debugging Tools](https://github.com/vertxxyz/Vertx.Debugging)
 
