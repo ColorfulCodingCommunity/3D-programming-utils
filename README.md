@@ -14,9 +14,11 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### 2D
 * [2D Lighting](https://github.com/NullTale/GiLight2D?)
+* [2D VFX](https://github.com/Magnno/Unity_2D_VFX?)
 * [Choco Water](https://github.com/chocola-mint/ChocoWater?)
 * [Sprite Assist](https://github.com/sr4dev/Unity-SpriteAssist?)
 * [Sprite Outline](https://github.com/keijiro/SpriteOutlineFx)
+  
 
 ### AI
 * [DotRecast](https://github.com/ikpil/DotRecast?) - Navmesh generation
@@ -229,6 +231,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Outlines](https://github.com/Robinseibold/Unity-URP-Outlines)
 * [PixelationFX](https://github.com/NullTale/PixelationFx?)
 * [Planar reflections URP](https://github.com/eldskald/planar-reflections-unity?)
+* [Planter](https://github.com/noio/games.noio.planter?)
 * [Polyhydra](https://github.com/IxxyXR/polyhydra-core?) - a toolkit for the procedural generation of geometric forms in Unity.
 * [ProCamp](https://github.com/keijiro/ProcAmp) - Adjust Videos
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
