@@ -10,6 +10,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ## Other interesting assets
 * [Asset studio](https://github.com/Perfare/AssetStudio)
+* [FaceMeshBarracuda](https://github.com/keijiro/FaceMeshBarracuda) - Media pipe but for face -> Includes Face Mesh
 * [MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin/wiki/Getting-Started)
 * [UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering?) - Render Volumes DICOM, NRRD, MRI scans etc
 
