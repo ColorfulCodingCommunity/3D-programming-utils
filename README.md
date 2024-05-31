@@ -10,6 +10,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ## Other interesting assets
 * [Asset studio](https://github.com/Perfare/AssetStudio)
+* [MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin/wiki/Getting-Started)
 * [UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering?) - Render Volumes DICOM, NRRD, MRI scans etc
 
 ### 2D
