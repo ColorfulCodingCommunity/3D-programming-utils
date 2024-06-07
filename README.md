@@ -73,6 +73,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### Cameras
 * [Cinemachine RTS/City Builder Camera Controller](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine?)
 
+### Debug
+* [Gizmos](https://github.com/harumas/UGizmo?)
+
 ### DOTS
 * [NativeTrees](https://github.com/bartofzo/NativeTrees?) - Octree/Quadtree for ECS/DOTS
 
@@ -217,6 +220,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Atmospheric Scattering](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)
 * [Bake Shaders](https://github.com/Cyanilux/BakeShader)
 * [Capsule Ocllusion](https://github.com/Fewes/CapsuleOcclusion?)
+* [Cavifree](https://github.com/federicocasares/cavifree/) - Blender-like cavity shader
 * [CustomPostprocessingStack](https://github.com/yahiaetman/URPCustomPostProcessingStack)
 * [Deferred Decals](https://github.com/SanielX/DeferredDecals)
 * [Dynamic Interactable Shader](https://github.com/Umbrason/DynamicInteractableShader?) - Interactive Position subgraph component
@@ -277,7 +281,8 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [Soft Masks](https://github.com/mob-sakai/SoftMaskForUGUI)
  * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
  * [UI Blur](https://github.com/lukakldiashvili/Unified-Universal-Blur?)
- * [UIComponents](https://github.com/jonisavo/uicomponents) - UIToolkit decoupling and DI
+ * [UI Components](https://github.com/jonisavo/uicomponents) - UIToolkit decoupling and DI
+ * [UI Drawable](https://github.com/bosqmode/UnityUIDrawable?) - Draw/Brushes in UI
  * [UI Effects](https://github.com/mob-sakai/UIEffect)
  * [UI Table View](https://github.com/zhaozilong1988/UITableViewForUnity?)
  * [UltraWide fixes](https://github.com/p1xel8ted/UltrawideFixes?)
