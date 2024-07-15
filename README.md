@@ -265,6 +265,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ## Terrain
 * [Area Object Spawner](https://github.com/JahnStar/Hey-Area-Object-Spawner?)
 
+## Text
+* [TMPro Effects](https://github.com/Luca3317/TMPEffects?)
+
 ## Third Party
 * [AdvancedSharpAdbClient](https://github.com/SharpAdb/AdvancedSharpAdbClient?)
 * [RealWorldMapData](https://github.com/codehoose/real-world-map-data?) - OpenStreetMap integration
