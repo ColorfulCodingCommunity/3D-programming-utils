@@ -171,6 +171,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 ### Physics
 * [Cable Physics](https://github.com/Hrober0/Cable-physics?)
 * [Collider Optimizer](https://github.com/aniketrajnish/Unity-Collider-Optimizer?)
+* [FLIP - Fluid for Unity](https://github.com/abecombe/FLIP-Fluid-for-Unity?)
 * [Soft2D](https://github.com/taichi-dev/soft2d-for-unity?) - Soft bodies
 * [Soft Bodies](https://github.com/ehsanwwe/Unity-SoftBody-physics?)
 * [StableFluids](https://github.com/keijiro/StableFluids?) - fluids simulator
@@ -197,6 +198,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Atmospheric Scattering URP](https://github.com/sinnwrig/URP-Atmosphere?)
 * [Baked Volumetrics](https://github.com/frostbone25/Unity-Baked-Volumetrics?) - lightweight
 * [FernRender](https://github.com/FernRender/FernRender?) - all kinds of rendering utils
+* [Screen Space URP Global Illumation](https://github.com/jiaozi158/UnitySSGIURP?)
 * [Toon Render Pipeline](https://github.com/Delt06/toon-rp?)
 * [URP Custom Lighting](https://github.com/Cyanilux/URP_ShaderGraphCustomLighting)
 
@@ -280,6 +282,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [CompositeCanvasRender](https://github.com/mob-sakai/CompositeCanvasRenderer)
  * [Graphify Everything](https://github.com/CoffeeVampir3/Graphify?)
  * [Rounded Corners Shader](https://github.com/Nobinator/Unity-UI-Rounded-Corners)
+ * [SDF UI Toolkit](https://github.com/TLabAltoh/Unity-SDF-UI-Toolkit?)
  * [SVG importer](https://github.com/Artees/SVGImporter)
  * [Soft Masks](https://github.com/mob-sakai/SoftMaskForUGUI)
  * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
