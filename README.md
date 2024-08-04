@@ -113,6 +113,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Unity Dependency Toolkit](https://github.com/ultraleap/Unity-Dependency-Toolkit)
 * [Vertx Debugging Tools](https://github.com/vertxxyz/Vertx.Debugging)
 
+### File utils
+* [Excel to JSON](https://github.com/npckero/ExcelToJsonWizard?)
+
 ### Geometry
 * [GrassBending](https://github.com/elringus/GrassBending?)
 * [Infinity Foliage](https://github.com/haolange/InfinityFoliage) - GPU-driven trees and grass
@@ -147,6 +150,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### Optimizations
 * [Amplify Impostors](https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-119877) - 2D LOD for 3D objects
+* [Area Object Spawner](https://github.com/JahnStar/Hey-Area-Object-Spawner?)
 * [Missing References Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter?)
 * [Precomputed Culling](https://github.com/Prographers/Precomputed-Culling?)
 * [Texture Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter?)
@@ -201,6 +205,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Screen Space URP Global Illumation](https://github.com/jiaozi158/UnitySSGIURP?)
 * [Toon Render Pipeline](https://github.com/Delt06/toon-rp?)
 * [URP Custom Lighting](https://github.com/Cyanilux/URP_ShaderGraphCustomLighting)
+* [URP Volumetric Light](https://github.com/CristianQiu/Unity-URP-Volumetric-Light?)
 
 ## Repos
 * [HDRP Toon Shaders](https://github.com/chrisloop/HDRP2020Toon2)
