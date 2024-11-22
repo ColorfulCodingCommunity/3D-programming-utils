@@ -344,6 +344,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Dream Textures](https://github.com/carson-katri/dream-textures) - texture creating Stable Diffusion
 * [Export Paper Model](https://blender-addons.org/export-paper-model-addon/)
 * [fSpy](https://fspy.io/) - Open Source Still camera matching
+* [IKurve](https://github.com/Vixelisto/IKurve/) - IK rig on curve
 * [Imagiscope](https://www.youtube.com/watch?v=80GrFXFOayE&ab_channel=ImagiscopeTech) - Google Earth inside Blender
 * [Lily's Surface Scraper](https://blender-addons.org/lily-surface-scrapper-addon/)
 * [Materials since 2007](https://blender-materials.org/)
