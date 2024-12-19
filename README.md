@@ -147,6 +147,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Touch Controls](https://github.com/jocic/unity-touch-controls?)
 * [UMI](https://github.com/mopsicus/umi?) - Mobile native input fields
 * [UMP](https://assetstore.unity.com/packages/tools/video/ump-win-mac-linux-webgl-49625) - Used it for receiving live-streaming YT videos
+* [UniMic](https://github.com/adrenak/unimic?) - A wrapper for Unity's Microphone class
 
 ### Optimizations
 * [Amplify Impostors](https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-119877) - 2D LOD for 3D objects
@@ -274,6 +275,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ## Text
 * [TMPro Effects](https://github.com/Luca3317/TMPEffects?)
+* [TMPro Max](https://github.com/kwan3854/TextMeshProMax?)
 
 ## Third Party
 * [AdvancedSharpAdbClient](https://github.com/SharpAdb/AdvancedSharpAdbClient?)
