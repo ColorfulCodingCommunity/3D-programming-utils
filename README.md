@@ -81,6 +81,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### Editor Tools
 * [Animation Transition Copier](https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier)
+* [ArtificeToolkit](https://github.com/AbZorbaGames/artificetoolkit?) - Unity Editor toolkit
 * [Asset Usage Finder](https://assetstore.unity.com/packages/tools/utilities/asset-usage-finder-59997) - Find which assets are actually used. Free alternative [Asset Usage Detector](https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837)
 * [Asset Management Tool](https://github.com/NibbleByte/UnityAssetManagementTools?)
 * [Asset Tabs](https://github.com/nomnomab/unity-asset-tabs?)
