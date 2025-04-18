@@ -28,6 +28,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Navmesh plus](https://github.com/h8man/NavMeshPlus?)
 * [NPC AI](https://assetstore.unity.com/packages/tools/behavior-ai/npc-ai-dialog-actions-and-general-intelligence-by-convai-235621)
 * [Speech to Text for Android/iOS](https://github.com/yasirkula/UnitySpeechToText?)
+* [Unity MCP](https://github.com/wondeks/unity-mcp)
 
 ### Animations
 * [Animatable Volume Component](https://github.com/cji3bp62000/AnimatableVolumeComponent/blob/main/README_en.md)
