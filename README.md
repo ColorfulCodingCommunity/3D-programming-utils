@@ -57,6 +57,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Point Cloud Importer/Renderer](https://github.com/keijiro/Pcx)
 * [Polyhive](https://assetstore.unity.com/packages/tools/generative-ai/polyhive-texture-3d-assets-with-ai-257919) - texture 3D assets with AI)
 * [Replica Studios AI Voice Actors](https://assetstore.unity.com/packages/tools/generative-ai/replica-studios-ai-voice-actors-for-unity-257819)
+* [Unity MCP](https://github.com/wondeks/unity-mcp)
   
 
 ### Asset Bundles and Addressables
@@ -142,6 +143,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Native Camera](https://github.com/yasirkula/UnityNativeCamera?)
 * [Native Dialog](https://github.com/j1mmyto9/unity-mobile-dialog-popup-native)
 * [Native Sharing](https://github.com/NicholasSheehan/Unity-Native-Sharing)
+* [Permission's Kit](https://github.com/voxelbusters/permissions-kit)
 * [Record and Repeat](https://github.com/fx-lange/unity-record-and-repeat)
 * [Smart Image](https://github.com/Auros/SmartImage)
 * [Swipe detector](https://github.com/burning-laboratory/unity-swipe-input)
