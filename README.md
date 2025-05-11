@@ -23,6 +23,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
   
 
 ### AI
+* [Nvidia DLSS or HDRP](https://github.com/InboraStudio/DLSS-Support-For-Unity-3D?) - Deep Learning Super Sampling (DLSS) is a performance-enhancing upscaling technique developed by NVIDIA.
 * [DotRecast](https://github.com/ikpil/DotRecast?) - Navmesh generation
 * [LMNT](https://assetstore.unity.com/packages/tools/generative-ai/lmnt-emotive-ai-speech-for-voiceover-characters-258133) - LMNT: Emotive AI speech for voiceover & characters
 * [Navmesh plus](https://github.com/h8man/NavMeshPlus?)
@@ -120,6 +121,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Excel to JSON](https://github.com/npckero/ExcelToJsonWizard?)
 
 ### Geometry
+* [GPU Spline Deformation](https://github.com/RoyTheunissen/GPU-Spline-Deformation?)
 * [GrassBending](https://github.com/elringus/GrassBending?)
 * [Infinity Foliage](https://github.com/haolange/InfinityFoliage) - GPU-driven trees and grass
 * [Metaballs](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
@@ -293,6 +295,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [CompositeCanvasRender](https://github.com/mob-sakai/CompositeCanvasRenderer)
  * [Graphify Everything](https://github.com/CoffeeVampir3/Graphify?)
  * [Rounded Corners Shader](https://github.com/Nobinator/Unity-UI-Rounded-Corners)
+ * [Scene View Picker](https://github.com/RoyTheunissen/Scene-View-Picker?)
  * [SDF UI Toolkit](https://github.com/TLabAltoh/Unity-SDF-UI-Toolkit?)
  * [SVG importer](https://github.com/Artees/SVGImporter)
  * [Soft Masks](https://github.com/mob-sakai/SoftMaskForUGUI)
@@ -310,6 +313,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 
 ### VR
 * [Ultimate XR](https://github.com/VRMADA/ultimatexr-unity) - a professional-grade, free, open-source framework and toolkit for Unity
+* [UXR-QuestCamera](https://github.com/Uralstech/UXR.QuestCamera?) - A Unity package to use the new Meta Quest Passthrough Camera API.
 
 ### Desktop 
 * [UniFileOpenDialog](https://github.com/Bian-Sh/UniFileOpenDialog?)
