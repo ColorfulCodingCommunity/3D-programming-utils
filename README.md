@@ -77,7 +77,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Cinemachine RTS/City Builder Camera Controller](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine?)
 
 ### Debug
+* [Debug Overlay](https://github.com/pandr/unity-debug-overlay) - Fast and lightweight debug GUI overlay.
 * [Gizmos](https://github.com/harumas/UGizmo?)
+* [Jahro](https://github.com/jahro-console/unity-package) - Debug, Control and Fine-tune your game in the game view.
 
 ### DOTS
 * [NativeTrees](https://github.com/bartofzo/NativeTrees?) - Octree/Quadtree for ECS/DOTS
@@ -99,6 +101,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Hierarchy Plus](https://github.com/Dreadrith/HierarchyPlus?)
 * [In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole)
 * [HTTP Debugger](https://github.com/ErnSur/Unity-Http-Debugger)
+* [Material Shader Replacer](https://github.com/hazre/MaterialShaderReplacer) - Batch replace shader of materials
 * [More Attributes](https://assetstore.unity.com/packages/tools/utilities/more-attributes-229818)
 * [Mx](https://github.com/jcs090218/Unity.Mx?) - command-based completion framework
 * [NSelection](https://github.com/vertxxyz/NSelection)
@@ -142,6 +145,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [AutoScreen for Unity2021](https://github.com/su10/AutoScreen-for-Unity2021) - Safea area for Device Simulator
 * [Better Joystick](https://github.com/techno-dwarf-works/better-joystick?)
 * [Capture and Save Lite](https://assetstore.unity.com/packages/tools/integration/capture-and-save-lite-18755) - Make a screenshot and save it to gallery.
+* [Cross-Platform-Native-Plugins](https://github.com/voxelbustersold/Cross-Platform-Native-Plugins-for-Unity)
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens.
 * [Native Camera](https://github.com/yasirkula/UnityNativeCamera?)
 * [Native Dialog](https://github.com/j1mmyto9/unity-mobile-dialog-popup-native)
@@ -154,6 +158,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [UMI](https://github.com/mopsicus/umi?) - Mobile native input fields
 * [UMP](https://assetstore.unity.com/packages/tools/video/ump-win-mac-linux-webgl-49625) - Used it for receiving live-streaming YT videos
 * [UniMic](https://github.com/adrenak/unimic?) - A wrapper for Unity's Microphone class
+
+### Multiplayer
+* [UniVoice](https://github.com/adrenak/univoice) - Chat/VoIP solution
 
 ### Optimizations
 * [Amplify Impostors](https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-119877) - 2D LOD for 3D objects
