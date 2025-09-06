@@ -129,6 +129,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [GrassBending](https://github.com/elringus/GrassBending?)
 * [Infinity Foliage](https://github.com/haolange/InfinityFoliage) - GPU-driven trees and grass
 * [Metaballs](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
+* [MeshLOD2FBX](https://github.com/staggartcreations/MeshLOD2Fbx) - export Unity 6.2 LODs to FBX
 * [SliceyMesh](https://github.com/brandf/SliceyMesh?)
 * [Spline Mesh](https://github.com/methusalah/SplineMesh)
 * [Unity Grass Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer)
@@ -147,6 +148,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Better Joystick](https://github.com/techno-dwarf-works/better-joystick?)
 * [Capture and Save Lite](https://assetstore.unity.com/packages/tools/integration/capture-and-save-lite-18755) - Make a screenshot and save it to gallery.
 * [Cross-Platform-Native-Plugins](https://github.com/voxelbustersold/Cross-Platform-Native-Plugins-for-Unity)
+* [EasyMic](https://github.com/EitanWong/com.eitan.easymic) - New low-latency playback/mixing subsystem (AudioSystem/AudioMixer/PlaybackAudioSource), refactored non-blocking recording core
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) - Customizable joysticks to use especially on touch screens.
 * [Native Camera](https://github.com/yasirkula/UnityNativeCamera?)
 * [Native Dialog](https://github.com/j1mmyto9/unity-mobile-dialog-popup-native)
