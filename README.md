@@ -72,6 +72,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Audio Recorder](https://github.com/Mukarillo/UnityAudioRecorder?)
 * [Audio Scripts](https://github.com/CaioMJ/Unity-Audio-Scripts?)
 * [FMOD-Syntax](https://github.com/RoyTheunissen/FMOD-Syntax?)
+* [ZzFX](https://github.com/KilledByAPixel/ZzFX) - Super small sound synth
 
 ### Cameras
 * [Cinemachine RTS/City Builder Camera Controller](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine?)
