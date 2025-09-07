@@ -78,6 +78,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Cinemachine RTS/City Builder Camera Controller](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine?)
 
 ### Debug
+* [Compilation Visualizer](https://github.com/needle-tools/compilation-visualizer)
 * [Debug Overlay](https://github.com/pandr/unity-debug-overlay) - Fast and lightweight debug GUI overlay.
 * [Gizmos](https://github.com/harumas/UGizmo?)
 * [Jahro](https://github.com/jahro-console/unity-package) - Debug, Control and Fine-tune your game in the game view.
@@ -270,6 +271,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Ripple Effect](https://github.com/keijiro/RippleEffect)
 * [Simple Water Shaders](https://github.com/nvjob/nvjob-water-shader-simple-and-fast)
 * [SE Natural Bloom Dirty Lens](https://github.com/sonicether/SE-Natural-Bloom-Dirty-Lens)
+* [StableFluids](https://github.com/keijiro/StableFluids) - This project is a straightforward GPU-based implementation of Jos Stam's Stable Fluids in Unity.
 * [Stylized water](https://github.com/danielshervheim/unity-stylized-water)
 * [QFXToolKit](https://github.com/qine/QFXToolKit) - VFX Toolkit - not tested
 * [Toon water shader](https://github.com/IronWarrior/ToonWaterShader)
