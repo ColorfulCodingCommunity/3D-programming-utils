@@ -116,6 +116,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Readme Lite](https://assetstore.unity.com/packages/tools/utilities/readme-lite-156751?aid=1101l9Bhe)
 * [Runtime Monitoring](https://github.com/JohnBaracuda/Runtime-Monitoring)
 * [Scene-View-Bookmarks](https://github.com/mminer/scene-view-bookmarks) - camera position bookmarking
+* [SerializeReferenceExtensions](https://github.com/mackysoft/Unity-SerializeReferenceExtensions) - serialize references to interfaces and abstract classes.
 * [Switch Attributes](https://github.com/ghysc/SwitchAttribute)
 * [Toolbar extender](https://github.com/marijnz/unity-toolbar-extender)
 * [UGizmo](https://github.com/harumas/UGizmo?)
@@ -220,6 +221,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Atmospheric Scattering URP](https://github.com/sinnwrig/URP-Atmosphere?)
 * [Baked Volumetrics](https://github.com/frostbone25/Unity-Baked-Volumetrics?) - lightweight
 * [FernRender](https://github.com/FernRender/FernRender?) - all kinds of rendering utils
+* [Screen Space Reflection](https://github.com/mseonKim/URP-ScreenSpaceReflection.git)
 * [Screen Space URP Global Illumation](https://github.com/jiaozi158/UnitySSGIURP?)
 * [Toon Render Pipeline](https://github.com/Delt06/toon-rp?)
 * [URP Custom Lighting](https://github.com/Cyanilux/URP_ShaderGraphCustomLighting)
