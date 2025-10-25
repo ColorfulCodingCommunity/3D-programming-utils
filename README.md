@@ -163,6 +163,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [UMI](https://github.com/mopsicus/umi?) - Mobile native input fields
 * [UMP](https://assetstore.unity.com/packages/tools/video/ump-win-mac-linux-webgl-49625) - Used it for receiving live-streaming YT videos
 * [UniMic](https://github.com/adrenak/unimic?) - A wrapper for Unity's Microphone class
+* [Unity.webp](https://github.com/netpyoung/unity.webp) - Use WebP format for images
 
 ### Multiplayer
 * [UniVoice](https://github.com/adrenak/univoice) - Chat/VoIP solution
