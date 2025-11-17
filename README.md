@@ -37,6 +37,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [EasyIK](https://github.com/joaen/EasyIK)
 * [Face Mesh Baracuda](https://github.com/keijiro/FaceMeshBarracuda)
 * [Holistic Motion Camera](https://github.com/creativeIKEP/HolisticMotionCapture) - an application that can capture the motion of a person with only a monocular color camera and move the VRM avatar's pose, face, and hands.
+* [Jiggle Physics](https://github.com/naelstrof/JigglePhysics)
 * [Mixamo Animation fix Postprocessor](https://github.com/adammyhre/AnimationPostProcessor)
 * [Naughty Character](https://github.com/dbrizov/NaughtyCharacter?) - 3rd party character controller
 * [Open Kinematic Character Controller](https://github.com/nicholas-maltbie/OpenKCC)
@@ -51,6 +52,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Rhubarb Lipsync](https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer)
 * [Timeline Tool](https://github.com/pofulu/TimelineTool?) - Change clips realtime, get/set bindings, get clip duration
 * [Tween Playables](https://github.com/AnnulusGames/TweenPlayables?)
+* [VATBaker](https://github.com/fuqunaga/VatBaker) - Vertex Animation Baker
 * [WaitForAnim](https://github.com/ComradeVanti/UnityWaitForAnim?)
 
 ### AR
