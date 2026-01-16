@@ -8,6 +8,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
  * [UI Maskable custom shaders](https://www.youtube.com/watch?v=RxW7_qgkXPo&ab_channel=jinhoLee)
  * [Lightmapping in Unity Troubleshooting guide](https://forum.unity.com/threads/lightmapping-troubleshooting-guide.1340936/#post-8466923)
 
+## Third Party Tools
+ * [eztree](https://www.eztree.dev/)
+
 ## Other interesting assets
 * [Asset studio](https://github.com/Perfare/AssetStudio)
 * [FaceMeshBarracuda](https://github.com/keijiro/FaceMeshBarracuda) - Media pipe but for face -> Includes Face Mesh
@@ -263,6 +266,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [LTCGI](https://github.com/PiMaker/ltcgi) - Realtime area lighting
 * [MagicaVoxel to VFXGraph](https://github.com/Zarbuz/VoxToVFX)
 * [Moxi Ink](https://github.com/komietty/unity-moxi-ink)
+* [NoiseShader](https://github.com/keijiro/NoiseShader?tab=readme-ov-file)
 * [Nova Shader](https://github.com/CyberAgentGameEntertainment/NovaShader)
 * [OldMovie FX](https://github.com/NullTale/OldMovieFx?)
 * [Outlines](https://github.com/Robinseibold/Unity-URP-Outlines)
