@@ -382,16 +382,4 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Materials since 2007](https://blender-materials.org/)
 * [Material Slot Cleaner](https://www.blendernation.com/2020/02/12/add-on-material-slots-cleaner-free/)
 * Meshroom2Blender
-* [Tracky](https://github.com/Shopify/tracky) - ARKit camera track to blender
-
----
-# AI
-* [AI Image Upscaler](https://github.com/upscayl/upscayl)
-* [Monocular Depth Unity](https://github.com/GeorgeAdamon/monocular-depth-unity)
-* [Unity CoreML Stable Diffusion](https://github.com/keijiro/UnityMLStableDiffusion?)
-* [Unity Text2Mesh)(https://github.com/threedle/text2mesh)
-* [Whisper AI - Unity](https://github.com/Macoron/whisper.unity?)
-
-
----
-* [VisionOS libraries](https://github.com/stevenpaulhoward/awesome-visionos)
+* [Tracky](https://github.com/Shopify/tracky) - ARKit camera track to blende[VisionOS libraries](https://github.com/stevenpaulhoward/awesome-visionos)
