@@ -126,6 +126,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Toolbar extender](https://github.com/marijnz/unity-toolbar-extender)
 * [UGizmo](https://github.com/harumas/UGizmo?)
 * [Unity Dependency Toolkit](https://github.com/ultraleap/Unity-Dependency-Toolkit)
+* [Unity Inspector Runtime](https://github.com/PicoShot/UnityInspectorStandalone?tab=readme-ov-file)
 * [Vertx Debugging Tools](https://github.com/vertxxyz/Vertx.Debugging)
 
 ### File utils
