@@ -79,6 +79,9 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [FMOD-Syntax](https://github.com/RoyTheunissen/FMOD-Syntax?)
 * [ZzFX](https://github.com/KilledByAPixel/ZzFX) - Super small sound synth
 
+### Build
+* [Build Optimization Tool](https://wiki.playgama.com/playgama/performance-and-optimization/unity/unity-build-optimization-tool)
+
 ### Cameras
 * [Cinemachine RTS/City Builder Camera Controller](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine?)
 
@@ -288,6 +291,7 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Toon water shader](https://github.com/IronWarrior/ToonWaterShader)
 * [UnityFX Outline](https://github.com/Arvtesh/UnityFx.Outline) - Free Outline effect
 * [URP Antialising](https://github.com/CMDRSpirit/URPTemporalAA)
+* [URP Fake Real Glass](https://github.com/Youssef-Afella/UnityURP-FakeRealGlass)
 * [URP Fog Volume](https://github.com/sinnwrig/URP-Fog-Volumes?)
 * [VFX Toolbox](https://github.com/Unity-Technologies/VFXToolbox) - Unity's toolbox with integration for Houdini and Blender
 * [VHS FX](https://github.com/NullTale/VhsFx?)
@@ -384,3 +388,6 @@ Repository of Multiple simple nifty algorithms that I wouldn't like to redo.
 * [Material Slot Cleaner](https://www.blendernation.com/2020/02/12/add-on-material-slots-cleaner-free/)
 * Meshroom2Blender
 * [Tracky](https://github.com/Shopify/tracky) - ARKit camera track to blende[VisionOS libraries](https://github.com/stevenpaulhoward/awesome-visionos)
+
+Materials
+* [Juilovii Materials Pack](https://juliovii.itch.io/)_
